@@ -1,0 +1,3981 @@
+[
+ {
+  "id": "F0001",
+  "airline": "J2",
+  "flight_number": "J28103",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-03T07:20",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 352.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0311IST1?t=J217936904001793698500000195GYDSAW_7b6cba59896ebe064c3a973f6258f211_16825&search_date=02112026&expected_price_uuid=01a19e44-9400-8030-aeef-7d3a132d4e38&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9Jqfi73oC5d90bqNCxNiw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=352"
+ },
+ {
+  "id": "F0002",
+  "airline": "W6",
+  "flight_number": "W62614",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-04T22:20",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 368.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0411IST1?t=W617938308001793985000002630GYDBTSSAW_6f25ffdf438333ac181e6b1dd0fda60a_17596&search_date=02112026&expected_price_uuid=01a19d8d-25c8-8030-6b45-c4511a0b3792&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ya0E8uuoJrcymctbagUOkw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=368"
+ },
+ {
+  "id": "F0003",
+  "airline": "J2",
+  "flight_number": "J28215",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-05T01:30",
+  "arrival_local": null,
+  "duration_min": 300,
+  "stops": 1,
+  "via": null,
+  "price_azn": 336.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0511IST1?t=FS17938422001794047400003480GYDSCOIST_e7b1a1f6bec2be4d7a819c2cf082c1bc_16067&search_date=02112026&expected_price_uuid=01a19e05-3dce-8031-6bb8-64911d74ea43&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IqnTCeWPLkrcfobhoceM3A&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=336"
+ },
+ {
+  "id": "F0004",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-06T12:35",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 311.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0611IST1?t=VF17939685001793976600000195GYDSAW_075d9fd468141e1311182cb3a05ecca4_14868&search_date=02112026&expected_price_uuid=01a19dc0-c658-8030-6bde-186f4ccf8990&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ONl2EolfJVrTNnKQpSxE6A&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=311"
+ },
+ {
+  "id": "F0005",
+  "airline": "J2",
+  "flight_number": "J277",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-07T19:00",
+  "arrival_local": null,
+  "duration_min": 205,
+  "stops": 0,
+  "via": null,
+  "price_azn": 308.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0711IST1?t=J217940780001794086700000205GYDIST_e2428c2508c03b59c3e1965ffa7fd062_14743&search_date=02112026&expected_price_uuid=01a19e00-1ce9-8030-a4b0-e17790f0f91f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=txSrzV1-hTsBKMVbxJ2BQw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=308"
+ },
+ {
+  "id": "F0006",
+  "airline": "J2",
+  "flight_number": "J277",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-08T19:00",
+  "arrival_local": null,
+  "duration_min": 205,
+  "stops": 0,
+  "via": null,
+  "price_azn": 249.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0811IST1?t=J217941644001794173100000205GYDIST_f7eb93e90243e9b93160993b59b05622_11894&search_date=02112026&expected_price_uuid=01a19e00-61d4-8030-e409-08cd6d7dd716&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=txSrzV1-hTsBKMVbxJ2BQw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=249"
+ },
+ {
+  "id": "F0007",
+  "airline": "J2",
+  "flight_number": "J277",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-09T19:00",
+  "arrival_local": null,
+  "duration_min": 205,
+  "stops": 0,
+  "via": null,
+  "price_azn": 247.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0911IST1?t=J217942508001794259500000205GYDIST_8f4b29ac42a781cb1c64c8901a860c08_11828&search_date=02112026&expected_price_uuid=01a19d99-8d2e-8030-67d0-ee7248ae93ee&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=txSrzV1-hTsBKMVbxJ2BQw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=247"
+ },
+ {
+  "id": "F0008",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-10T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 177.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1011IST1?t=VF17942898001794297900000195GYDSAW_d992aa0a59e15f2e778c99bf30c00671_8445&search_date=02112026&expected_price_uuid=01a19e5d-e337-8030-2612-54ce71f01b60&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=177"
+ },
+ {
+  "id": "F0009",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-11T12:30",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 176.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1111IST1?t=VF17944002001794408300000195GYDSAW_52db6531fd2511696585de8d81010966_8392&search_date=02112026&expected_price_uuid=01a19da7-6a34-8031-612f-8d06b6a60a2a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gpkhV2v3j1UnTtUEt74J0Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=176"
+ },
+ {
+  "id": "F0010",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-12T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 197.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1211IST1?t=VF17944626001794470700000195GYDSAW_ec9fd20885390b2b7b67b0490aec8dee_9405&search_date=02112026&expected_price_uuid=01a19da7-5c08-8030-6cf8-7ddb03ae87c8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=197"
+ },
+ {
+  "id": "F0011",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-13T12:35",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 197.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1311IST1?t=VF17945733001794581400000195GYDSAW_71944df83ca0ce83cd05bb6bfa3d2b40_9405&search_date=02112026&expected_price_uuid=01a19d20-cbaf-8030-62ef-08b3a1d78217&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ONl2EolfJVrTNnKQpSxE6A&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=197"
+ },
+ {
+  "id": "F0012",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-14T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 177.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1411IST1?t=VF17946354001794643500000195GYDSAW_c226b06af49ee4d285bd0b50b4bdbced_8447&search_date=02112026&expected_price_uuid=01a19e69-dc33-8031-26e6-00fb67db2021&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=177"
+ },
+ {
+  "id": "F0013",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-15T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 175.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1511IST1?t=VF17947218001794729900000195GYDSAW_803db8cc218028384221b45270bc6a0c_8363&search_date=02112026&expected_price_uuid=01a19e01-125d-8030-6b17-181219b6bd88&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=175"
+ },
+ {
+  "id": "F0014",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-16T12:35",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 169.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1611IST1?t=VF17948325001794840600000195GYDSAW_e12776712b21eb135a40fcb9ef45f108_8073&search_date=02112026&expected_price_uuid=01a19de4-37bf-8030-68a0-8862a52c2b6c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ONl2EolfJVrTNnKQpSxE6A&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=169"
+ },
+ {
+  "id": "F0015",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-17T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 165.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1711IST1?t=VF17948946001794902700000195GYDSAW_4b2795dcd86cfd12d1ddd98aaa03a46a_7894&search_date=02112026&expected_price_uuid=01a19daf-3349-8030-6cbc-1fc2d818631c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=165"
+ },
+ {
+  "id": "F0016",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-18T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 175.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1811IST1?t=VF17949810001794989100000195GYDSAW_7b7121f8c8f488b40b571f42e45137f7_8363&search_date=02112026&expected_price_uuid=01a19e1d-8d44-8031-6945-a8b6a66477ad&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=175"
+ },
+ {
+  "id": "F0017",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-19T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 153.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1911IST1?t=VF17950674001795075500000195GYDSAW_3fa9bec7ab23b74181b063dfbd6a16b0_7317&search_date=02112026&expected_price_uuid=01a19d13-b720-8030-63f3-a74fac95c30f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=153"
+ },
+ {
+  "id": "F0018",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-20T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 153.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2011IST1?t=VF17951538001795161900000195GYDSAW_2e5a1f756b104b0e47863e1cae1d53b1_7334&search_date=02112026&expected_price_uuid=01a19e4b-5653-8031-2d30-b7f18a94d035&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=153"
+ },
+ {
+  "id": "F0019",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-21T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 225.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2111IST1?t=VF17952402001795248300000195GYDSAW_89d808b6ae466b3ede3a283dd4c52122_10770&search_date=02112026&expected_price_uuid=01a19e02-9490-8030-a2e9-b7d719fc08fc&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=225"
+ },
+ {
+  "id": "F0020",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-22T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 225.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2211IST1?t=VF17953266001795334700000195GYDSAW_e070d4505490d694510adb2dd099061c_10770&search_date=02112026&expected_price_uuid=01a19e01-8dcd-8030-69a2-6c3a380e32e4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=225"
+ },
+ {
+  "id": "F0021",
+  "airline": "J2",
+  "flight_number": "J28103",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-23T07:20",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 173.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2311IST1?t=J217954184001795426500000195GYDSAW_0babe999a4f92b6569c65ef03d64508a_8271&search_date=02112026&expected_price_uuid=01a19ded-f987-8030-a69f-cf970b6e5de3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9Jqfi73oC5d90bqNCxNiw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=173"
+ },
+ {
+  "id": "F0022",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-24T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 152.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2411IST1?t=VF17954994001795507500000195GYDSAW_826d3f296885e8df79fa4eefbaa9363c_7276&search_date=02112026&expected_price_uuid=01a19d20-57a9-8030-a0b6-a307c49008ec&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=152"
+ },
+ {
+  "id": "F0023",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-25T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 152.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2511IST1?t=VF17955858001795593900000195GYDSAW_1220d7c42e0aa1de31cad806d785b2fd_7287&search_date=02112026&expected_price_uuid=01a19e03-a75b-8031-65ce-c9283727e6f4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=152"
+ },
+ {
+  "id": "F0024",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-26T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 153.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2611IST1?t=VF17956722001795680300000195GYDSAW_6ca60d9f655421988d03f3f93b5405ac_7314&search_date=02112026&expected_price_uuid=01a19e60-e31f-8030-a6e6-98d3433a2331&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=153"
+ },
+ {
+  "id": "F0025",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-27T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 153.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2711IST1?t=VF17957586001795766700000195GYDSAW_263766bbe598c6031efe65b5a58c5664_7314&search_date=02112026&expected_price_uuid=01a19e6c-1580-8030-e9b8-0e47f697f606&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=153"
+ },
+ {
+  "id": "F0026",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-28T05:50",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 153.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2811IST1?t=VF17958450001795853100000195GYDSAW_368792f1fe500ec5452926eb905e80ec_7297&search_date=02112026&expected_price_uuid=01a19e02-e879-8030-a77f-ea793b647dd4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rQysV1SFDQNB9Xxi54tvuw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=153"
+ },
+ {
+  "id": "F0027",
+  "airline": "J2",
+  "flight_number": "J28103",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-29T07:20",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 173.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2911IST1?t=J217959368001795944900000195GYDSAW_ac1ba1ad8e4a44c240942c418da655ed_8266&search_date=02112026&expected_price_uuid=01a19e01-de37-8030-a313-6b577f36fc27&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9Jqfi73oC5d90bqNCxNiw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=173"
+ },
+ {
+  "id": "F0028",
+  "airline": "J2",
+  "flight_number": "J28103",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-11-30T07:20",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 173.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD3011IST1?t=J217960232001796031300000195GYDSAW_78483ea754d22a0e8f3a747491cdc966_8266&search_date=02112026&expected_price_uuid=01a19d1d-3fb1-8030-250e-7eeae6ca470d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9Jqfi73oC5d90bqNCxNiw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=173"
+ },
+ {
+  "id": "F0029",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "IST",
+   "city": "Istanbul"
+  },
+  "departure_local": "2026-12-01T12:30",
+  "arrival_local": null,
+  "duration_min": 195,
+  "stops": 0,
+  "via": null,
+  "price_azn": 153.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0112IST1?t=VF17961282001796136300000195GYDSAW_b0e933edad03c096686830b058ac1631_7286&search_date=02112026&expected_price_uuid=01a19c32-f3c7-8031-621d-7e489f27d20e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gpkhV2v3j1UnTtUEt74J0Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=153"
+ },
+ {
+  "id": "F0030",
+  "airline": "FZ",
+  "flight_number": "FZ734",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-03T23:20",
+  "arrival_local": null,
+  "duration_min": 240,
+  "stops": 0,
+  "via": null,
+  "price_azn": 558.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0311DXB1?t=FZ17937480001793762400000240GYDDXB_d6709ada231a3191413203ca959d6ba2_26662&search_date=02112026&expected_price_uuid=01a19e33-dc82-8030-a4f5-13b28e8ba236&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=ML-OiPGm_0vpRSX-H7obUQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=558"
+ },
+ {
+  "id": "F0031",
+  "airline": "FZ",
+  "flight_number": "FZ734",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-04T23:20",
+  "arrival_local": null,
+  "duration_min": 240,
+  "stops": 0,
+  "via": null,
+  "price_azn": 554.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0411DXB1?t=FZ17938344001793848800000240GYDDXB_9f604b9b0769b6e4ab49343df10cb3e7_26464&search_date=02112026&expected_price_uuid=01a19d7c-20d5-8030-ac8c-807591192c0c&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=ML-OiPGm_0vpRSX-H7obUQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=554"
+ },
+ {
+  "id": "F0032",
+  "airline": "J9",
+  "flight_number": "J9604",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-05T23:45",
+  "arrival_local": null,
+  "duration_min": 330,
+  "stops": 1,
+  "via": null,
+  "price_azn": 483.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0511SHJ1?t=J917939223001794084300002700GYDKWISHJ_90d006d0788c273dbbd305e6e0fcdb67_23097&search_date=02112026&expected_price_uuid=01a19d29-0a15-8030-e310-561bbabbb632&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=Z9i2zkflT_SbCeJ-qez01g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=483"
+ },
+ {
+  "id": "F0033",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-06T12:35",
+  "arrival_local": null,
+  "duration_min": 450,
+  "stops": 1,
+  "via": null,
+  "price_azn": 583.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0611SHJ1?t=PC17939685001794024900000940GYDSAWSHJ_e819bbb1b3f7f915183d4512b9b3cd3b_27858&search_date=02112026&expected_price_uuid=01a19e60-927b-8030-2d26-9780917c18d8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nZ3gdzbfy3PLrjYCQE6hRg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=583"
+ },
+ {
+  "id": "F0034",
+  "airline": "J9",
+  "flight_number": "J9604",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-07T23:45",
+  "arrival_local": null,
+  "duration_min": 570,
+  "stops": 2,
+  "via": null,
+  "price_azn": 496.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0711DXB1?t=J917940951001794197700001710GYDKWIAMMDXB_b92769d2988c27d1be91d0e41aa55b43_23685&search_date=02112026&expected_price_uuid=01a19dba-e24a-8030-a4ca-e04117abb9d0&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dkSBdR7_wVXoxr7_mnSjrQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=496"
+ },
+ {
+  "id": "F0035",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-08T13:15",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 435.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0811SHJ1?t=G917941437001794158400000245GYDSHJ_1d407e3ccc18472031bb13d17a8caf58_20532&search_date=01112026&expected_price_uuid=01a19785-27bb-8030-e5a4-2bf0fc7d2379&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=TTsPac_2LXhomo2oJiR0dw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=435"
+ },
+ {
+  "id": "F0036",
+  "airline": "G9",
+  "flight_number": "G9301",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-09T16:50",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 469.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0911SHJ1?t=G917942430001794257700000245GYDSHJ_b0b0b3943c2dab1ba9d8b91fc482937e_22393&search_date=02112026&expected_price_uuid=01a19cfa-9533-8030-aec3-a93cb6810e91&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PV9ZqrIO-ywL0SJ4WYqDTw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=469"
+ },
+ {
+  "id": "F0037",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-10T16:35",
+  "arrival_local": null,
+  "duration_min": 465,
+  "stops": 1,
+  "via": null,
+  "price_azn": 382.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1011DXB1?t=VF17943285001794368700000670GYDESBDXB_1973c1cc4645dc39640ab479690a1b3d_18055&search_date=01112026&expected_price_uuid=01a198a7-9fa1-8030-6897-6afa5d051112&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PQr3A2AuHshz2vpb3ix7Jw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=382"
+ },
+ {
+  "id": "F0038",
+  "airline": "G9",
+  "flight_number": "G9301",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-11T16:50",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 397.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1111SHJ1?t=G917944158001794430500000245GYDSHJ_470543ffb6ca4eb22fa60fb42769b018_18737&search_date=01112026&expected_price_uuid=01a198a8-6d0d-8031-6560-1ab5f02cb31e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PV9ZqrIO-ywL0SJ4WYqDTw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=397"
+ },
+ {
+  "id": "F0039",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-12T12:55",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 382.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1211SHJ1?t=G917944881001794502800000245GYDSHJ_4f3b870d08649bd464907f40404a0825_18214&search_date=02112026&expected_price_uuid=01a19cd3-28dc-8030-a5d8-53f191d3b158&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=6iu5mXZswIecxDSj1yB4nw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=382"
+ },
+ {
+  "id": "F0040",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-13T12:50",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 392.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1311SHJ1?t=G917945742001794588900000245GYDSHJ_305e327302faddc6953a66187887117b_18713&search_date=29102026&expected_price_uuid=01a188e4-520e-8030-e93e-caea045b09b5&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=iQ2MQb95Uh6m3KAi36ebkA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=392"
+ },
+ {
+  "id": "F0041",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-14T12:55",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 380.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1411SHJ1?t=G917946609001794675600000245GYDSHJ_983774cd4818cc2b478d39e648aafc42_17958&search_date=01112026&expected_price_uuid=01a195ef-4db0-8030-ad70-cedff1769442&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=6iu5mXZswIecxDSj1yB4nw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=380"
+ },
+ {
+  "id": "F0042",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-15T12:45",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 380.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1511SHJ1?t=G917947467001794761400000245GYDSHJ_7a4b9d77635b52ae11127a2e44ba840e_17958&search_date=01112026&expected_price_uuid=01a19640-4476-8031-6e3b-01f5899302ac&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=459LKHQJBt6jdgzX_LVC1g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=380"
+ },
+ {
+  "id": "F0043",
+  "airline": "QR",
+  "flight_number": "QR354",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-16T14:35",
+  "arrival_local": null,
+  "duration_min": 350,
+  "stops": 1,
+  "via": null,
+  "price_azn": 472.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1611DXB1?t=QR17948397001794863700000400GYDDOHDXB_dfb88d6a14ae20c240688538f894e5a0_22549&search_date=02112026&expected_price_uuid=01a19dba-5ed0-8030-2563-0c671689a245&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=4Jm4eiBGh_JT0jiLydIGXg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=472"
+ },
+ {
+  "id": "F0044",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-17T16:35",
+  "arrival_local": null,
+  "duration_min": 465,
+  "stops": 1,
+  "via": null,
+  "price_azn": 386.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1711DXB1?t=VF17949333001794973500000670GYDESBDXB_dbd2b6949252591606061b7c1660800d_18436&search_date=02112026&expected_price_uuid=01a19e4f-6dbd-8030-aad0-9126f82baca4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PQr3A2AuHshz2vpb3ix7Jw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=386"
+ },
+ {
+  "id": "F0045",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-18T16:35",
+  "arrival_local": null,
+  "duration_min": 395,
+  "stops": 1,
+  "via": null,
+  "price_azn": 399.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1811DXB1?t=PC17950197001795056900000620GYDESBDXB_487c30e32f8e00f45795d4bd658a8a86_18971&search_date=02112026&expected_price_uuid=01a19b8c-463d-8031-28e4-e4c0c48f4998&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Xnomp32a2C-jSQYtIjVyQQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=399"
+ },
+ {
+  "id": "F0046",
+  "airline": "PC",
+  "flight_number": "PC1721",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-19T04:20",
+  "arrival_local": null,
+  "duration_min": 455,
+  "stops": 1,
+  "via": null,
+  "price_azn": 366.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1911DXB1?t=VF17950620001795148700001445GYDESBDXB_3f09457f1199381de8635d145206faa2_17504&search_date=02112026&expected_price_uuid=01a19def-aae9-8030-aa4f-9e8bf23c99d2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RQkoHbL37KSUr2dPiAXcZg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=366"
+ },
+ {
+  "id": "F0047",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-20T13:15",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 380.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2011SHJ1?t=G917951805001795195200000245GYDSHJ_15ce9516f3c86bb9db0074367396dd98_17958&search_date=01112026&expected_price_uuid=01a19787-18f5-8030-2a63-bce5e86f0b88&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=TTsPac_2LXhomo2oJiR0dw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=380"
+ },
+ {
+  "id": "F0048",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-21T12:45",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 380.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2111SHJ1?t=G917952651001795279800000245GYDSHJ_c3247b35a1c677338008acfdb5623db0_17958&search_date=01112026&expected_price_uuid=01a19787-275c-8030-235d-fb6dc72e1ebe&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=459LKHQJBt6jdgzX_LVC1g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=380"
+ },
+ {
+  "id": "F0049",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-22T13:15",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 380.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2211SHJ1?t=G917953533001795368000000245GYDSHJ_77911149713144d4206944780e8fcb54_17928&search_date=01112026&expected_price_uuid=01a198ea-217c-8030-2c59-90463cfd3c38&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=TTsPac_2LXhomo2oJiR0dw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=380"
+ },
+ {
+  "id": "F0050",
+  "airline": "G9",
+  "flight_number": "G9301",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-23T16:50",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 392.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2311SHJ1?t=G917954526001795467300000245GYDSHJ_d7165412d6044bc1093637673878d4cf_18677&search_date=02112026&expected_price_uuid=01a19bc0-0537-8030-21c8-270e8012ba9c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PV9ZqrIO-ywL0SJ4WYqDTw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=392"
+ },
+ {
+  "id": "F0051",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-24T16:35",
+  "arrival_local": null,
+  "duration_min": 465,
+  "stops": 1,
+  "via": null,
+  "price_azn": 351.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2411DXB1?t=VF17955381001795578300000670GYDESBDXB_c5f04776b10622c10c40b49576515665_16594&search_date=01112026&expected_price_uuid=01a198e9-c590-8031-6a6d-b192027c3580&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PQr3A2AuHshz2vpb3ix7Jw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=351"
+ },
+ {
+  "id": "F0052",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-25T16:35",
+  "arrival_local": null,
+  "duration_min": 395,
+  "stops": 1,
+  "via": null,
+  "price_azn": 373.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2511DXB1?t=PC17956245001795661700000620GYDESBDXB_3cf44e55847bc2f808b3250d415ba509_17624&search_date=01112026&expected_price_uuid=01a198e9-65df-8030-2717-61ae3f6285f4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Xnomp32a2C-jSQYtIjVyQQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=373"
+ },
+ {
+  "id": "F0053",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-26T11:20",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 373.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2611SHJ1?t=G917956920001795706700000245GYDSHJ_01a523df4cb1945e75dd256a77e8d4df_17796&search_date=02112026&expected_price_uuid=01a19bc4-d464-8031-68c0-ba704b1bc86b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=bSepdQ64AO2OQTw39zy1Sw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=373"
+ },
+ {
+  "id": "F0054",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-11-27T16:35",
+  "arrival_local": null,
+  "duration_min": 465,
+  "stops": 1,
+  "via": null,
+  "price_azn": 360.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2711DXB1?t=VF17957973001795845000000795GYDESBDXB_c9016ad6ffa6e825e20384009cf49755_17026&search_date=01112026&expected_price_uuid=01a1991e-75f6-8030-2efc-0d70ee0cc011&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tyJrGxAhHBGvWvz-6yJX1Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=360"
+ },
+ {
+  "id": "F0055",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-28T10:50",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 378.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2811SHJ1?t=G917958630001795877700000245GYDSHJ_20891c59372f8c613bae46e7d7949339_17928&search_date=30102026&expected_price_uuid=01a18e95-4f21-8030-2001-29702d33d786&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=8k0OMrV6j_GJOPJhgEd2-Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=378"
+ },
+ {
+  "id": "F0056",
+  "airline": "G9",
+  "flight_number": "G9306",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-29T11:20",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 377.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2911SHJ1?t=G917959512001795965900000245GYDSHJ_8de3b53ef5e63cdd265207ec8e0eb631_17928&search_date=02112026&expected_price_uuid=01a19a75-d763-8031-6fc8-038824a41c7b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=bSepdQ64AO2OQTw39zy1Sw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=377"
+ },
+ {
+  "id": "F0057",
+  "airline": "G9",
+  "flight_number": "G9301",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "SHJ",
+   "city": "SHJ"
+  },
+  "departure_local": "2026-11-30T16:50",
+  "arrival_local": null,
+  "duration_min": 245,
+  "stops": 0,
+  "via": null,
+  "price_azn": 411.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD3011SHJ1?t=G917960574001796072100000245GYDSHJ_3ca4a5878025e59429949263f8c4df76_19530&search_date=02112026&expected_price_uuid=01a19a75-f104-8030-2949-0c0acb19e390&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PV9ZqrIO-ywL0SJ4WYqDTw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=411"
+ },
+ {
+  "id": "F0058",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "DXB",
+   "city": "Dubai"
+  },
+  "departure_local": "2026-12-01T16:35",
+  "arrival_local": null,
+  "duration_min": 465,
+  "stops": 1,
+  "via": null,
+  "price_azn": 359.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0112DXB1?t=VF17961429001796183100000670GYDESBDXB_6760e32f42e758eec7dd09bedd9fb557_16976&search_date=01112026&expected_price_uuid=01a198bb-bf2c-8031-6279-ff329f41cf7f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PQr3A2AuHshz2vpb3ix7Jw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=359"
+ },
+ {
+  "id": "F0059",
+  "airline": "HY",
+  "flight_number": "HY756",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-03T18:10",
+  "arrival_local": null,
+  "duration_min": 460,
+  "stops": 1,
+  "via": null,
+  "price_azn": 476.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0311MOW1?t=SU17937294001793834700001815GYDTASSVO_125c9d76bf8ebea6881c5ea6cbe94633_22730&search_date=02112026&expected_price_uuid=01a19e68-bee9-8030-ea12-79a9a3f4339c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=S3McYI1eRZy7v99acnQsLw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=476"
+ },
+ {
+  "id": "F0060",
+  "airline": "U6",
+  "flight_number": "U62146",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-04T22:20",
+  "arrival_local": null,
+  "duration_min": 190,
+  "stops": 0,
+  "via": null,
+  "price_azn": 565.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0411MOW1?t=U617938308001793838600000190GYDZIA_ea79ecc1e014a02ec9d564c4ca1fa987_27010&search_date=02112026&expected_price_uuid=01a19e6b-ced7-8030-a91f-07199d65c08b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=WxcY6klDsrnTU28VC8gaig&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=565"
+ },
+ {
+  "id": "F0061",
+  "airline": "J2",
+  "flight_number": "J28215",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-05T01:30",
+  "arrival_local": null,
+  "duration_min": 260,
+  "stops": 1,
+  "via": null,
+  "price_azn": 426.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0511MOW1?t=SU17938422001793994300002595GYDSCOSVO_d67093ef5b3f6ff4fb81120f5f43ab1c_20339&search_date=02112026&expected_price_uuid=01a19e69-79cb-8030-e813-46ec0d8bc993&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Rr3srFSD1jcFtSIbHHqPgQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=426"
+ },
+ {
+  "id": "F0062",
+  "airline": "J2",
+  "flight_number": "J28215",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-06T01:30",
+  "arrival_local": null,
+  "duration_min": 260,
+  "stops": 1,
+  "via": null,
+  "price_azn": 427.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0611MOW1?t=SU17939286001793994300001155GYDSCOSVO_07c703c332b4c8122920b89adffd617f_20384&search_date=02112026&expected_price_uuid=01a19e6b-2c62-8030-e48f-f43cc3d77d9a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=DSr6W1T4yWG_bms2CED8Tg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=427"
+ },
+ {
+  "id": "F0063",
+  "airline": "B2",
+  "flight_number": "B2740",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-07T04:45",
+  "arrival_local": null,
+  "duration_min": 345,
+  "stops": 1,
+  "via": null,
+  "price_azn": 429.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0711MOW1?t=B217940267001794056100000550GYDMSQSVO_e6c2a466c12460b2fb306e8ede925704_20520&search_date=02112026&expected_price_uuid=01a19e65-19a8-8030-e6d3-16237aeba993&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IRCOAnejPDKYPehcZFqRCA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=429"
+ },
+ {
+  "id": "F0064",
+  "airline": "J2",
+  "flight_number": "J28215",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-08T01:30",
+  "arrival_local": null,
+  "duration_min": 260,
+  "stops": 1,
+  "via": null,
+  "price_azn": 409.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0811MOW1?t=SU17941014001794167100001155GYDSCOSVO_abd0def0d0235f726dcaabfe5e9307af_19543&search_date=02112026&expected_price_uuid=01a19e69-b422-8030-a6d2-f95183a4032e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=DSr6W1T4yWG_bms2CED8Tg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=409"
+ },
+ {
+  "id": "F0065",
+  "airline": "A4",
+  "flight_number": "A44064",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-09T22:50",
+  "arrival_local": null,
+  "duration_min": 265,
+  "stops": 1,
+  "via": null,
+  "price_azn": 400.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0911MOW1?t=DP17942646001794317100000935GYDASFSVO_d6f02969e6a86d38c8efb46a4f98a997_19093&search_date=02112026&expected_price_uuid=01a19e6b-47e0-8030-2b5f-c15b00264505&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=2l02lt2y3-QgOpfLQZqSuA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=400"
+ },
+ {
+  "id": "F0066",
+  "airline": "SU",
+  "flight_number": "SU1855",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-10T13:35",
+  "arrival_local": null,
+  "duration_min": 205,
+  "stops": 0,
+  "via": null,
+  "price_azn": 426.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1011MOW1?t=SU17943177001794326400000205GYDSVO_445437a73b0d74cb81790432e7cc9fb7_20339&search_date=02112026&expected_price_uuid=01a19e67-381b-8030-6966-073c5f30dddc&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=aSDNa78fS_I9nWN9XSUYRA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=426"
+ },
+ {
+  "id": "F0067",
+  "airline": "J2",
+  "flight_number": "J2809",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-11T21:20",
+  "arrival_local": null,
+  "duration_min": 215,
+  "stops": 0,
+  "via": null,
+  "price_azn": 375.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1111MOW1?t=J217944320001794441300000215GYDVKO_cb08358fded53cd054506387f4f2f00c_17924&search_date=02112026&expected_price_uuid=01a19e69-f456-8030-65cf-25737878ab28&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5w9-jHIwBi62YrOjyiuLEQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=375"
+ },
+ {
+  "id": "F0068",
+  "airline": "SU",
+  "flight_number": "SU1855",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-12T13:35",
+  "arrival_local": null,
+  "duration_min": 205,
+  "stops": 0,
+  "via": null,
+  "price_azn": 337.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1211MOW1?t=SU17944905001794499200000205GYDSVO_d89c42710affd3e43cfeac16eaa628ea_16106&search_date=02112026&expected_price_uuid=01a19e63-bc00-8030-209e-6dfbb93ffdd3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=aSDNa78fS_I9nWN9XSUYRA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=337"
+ },
+ {
+  "id": "F0069",
+  "airline": "SU",
+  "flight_number": "SU1851",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-13T03:00",
+  "arrival_local": null,
+  "duration_min": 200,
+  "stops": 0,
+  "via": null,
+  "price_azn": 307.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1311MOW1?t=SU17945388001794547200000200GYDSVO_835adc186e8d52d457f8e9b9f34cfe73_14663&search_date=02112026&expected_price_uuid=01a19e59-0094-8030-e502-c62768cddf2e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=26h6kIoM5i1iyKoy8grmgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=307"
+ },
+ {
+  "id": "F0070",
+  "airline": "SU",
+  "flight_number": "SU1851",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-14T03:00",
+  "arrival_local": null,
+  "duration_min": 200,
+  "stops": 0,
+  "via": null,
+  "price_azn": 306.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1411MOW1?t=SU17946252001794633600000200GYDSVO_627f194cf4ff911f56cacbeb00719937_14600&search_date=02112026&expected_price_uuid=01a19e6a-5163-8030-e9d3-91df8d4778d6&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=26h6kIoM5i1iyKoy8grmgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=305"
+ },
+ {
+  "id": "F0071",
+  "airline": "SU",
+  "flight_number": "SU1851",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-15T03:00",
+  "arrival_local": null,
+  "duration_min": 200,
+  "stops": 0,
+  "via": null,
+  "price_azn": 306.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1511MOW1?t=SU17947116001794720000000200GYDSVO_e6bffa9bb1f8649e69268821ecc4ee0e_14629&search_date=02112026&expected_price_uuid=01a19e6b-1291-8031-2d05-d5e9e877f3eb&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=26h6kIoM5i1iyKoy8grmgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=306"
+ },
+ {
+  "id": "F0072",
+  "airline": "SU",
+  "flight_number": "SU1851",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-16T03:00",
+  "arrival_local": null,
+  "duration_min": 200,
+  "stops": 0,
+  "via": null,
+  "price_azn": 282.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1611MOW1?t=SU17947980001794806400000200GYDSVO_c57160bdaf53e950a961d2fc525a3c2e_13469&search_date=02112026&expected_price_uuid=01a19e6b-71c0-8031-20bc-920a3a17ee34&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=26h6kIoM5i1iyKoy8grmgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=282"
+ },
+ {
+  "id": "F0073",
+  "airline": "SU",
+  "flight_number": "SU1851",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-17T03:00",
+  "arrival_local": null,
+  "duration_min": 200,
+  "stops": 0,
+  "via": null,
+  "price_azn": 281.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1711MOW1?t=SU17948844001794892800000200GYDSVO_3cdcf9ce169d976ec3ba88e20705a596_13451&search_date=02112026&expected_price_uuid=01a19e6b-de58-8031-23d0-7dfaa3f4e83d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=26h6kIoM5i1iyKoy8grmgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=281"
+ },
+ {
+  "id": "F0074",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-18T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 269.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1811MOW1?t=UT17950143001795023300000210GYDVKO_8cec2d5691bc5b8dee7ed952cc629e22_12852&search_date=02112026&expected_price_uuid=01a19e6c-2b2c-8030-ebc2-dbc558a68cae&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=269"
+ },
+ {
+  "id": "F0075",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-19T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 269.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1911MOW1?t=UT17951007001795109700000210GYDVKO_fb2eaba3f02e4a47e6fe1e3e46466d59_12851&search_date=02112026&expected_price_uuid=01a19e6c-31cf-8031-2681-5fdc0033eae0&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=269"
+ },
+ {
+  "id": "F0076",
+  "airline": "SU",
+  "flight_number": "SU1851",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-20T03:00",
+  "arrival_local": null,
+  "duration_min": 200,
+  "stops": 0,
+  "via": null,
+  "price_azn": 282.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2011MOW1?t=SU17951436001795152000000200GYDSVO_114225af681da275288ff789fa6f84d1_13470&search_date=02112026&expected_price_uuid=01a19e4f-8895-8030-65a3-6fa837af07a4&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=26h6kIoM5i1iyKoy8grmgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=282"
+ },
+ {
+  "id": "F0077",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-21T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 269.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2111MOW1?t=UT17952735001795282500000210GYDVKO_9b1dc78bec8b6aae9d9e0395ac643993_12850&search_date=02112026&expected_price_uuid=01a19e4f-8b59-8030-a6d1-2a079ff09ec4&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=269"
+ },
+ {
+  "id": "F0078",
+  "airline": "SU",
+  "flight_number": "SU1851",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-22T03:00",
+  "arrival_local": null,
+  "duration_min": 200,
+  "stops": 0,
+  "via": null,
+  "price_azn": 281.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2211MOW1?t=SU17953164001795324800000200GYDSVO_ec9b647a2bce186b5b02e53dd6b234fe_13425&search_date=02112026&expected_price_uuid=01a19e4f-8895-8030-e03e-8d2e3e80a840&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=26h6kIoM5i1iyKoy8grmgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=281"
+ },
+ {
+  "id": "F0079",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-23T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 269.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2311MOW1?t=UT17954463001795455300000210GYDVKO_1de0855717c152615809326528d81e04_12849&search_date=02112026&expected_price_uuid=01a19e6c-ac6e-8031-2984-f266294168c0&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=269"
+ },
+ {
+  "id": "F0080",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-24T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 298.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2411MOW1?t=UT17955327001795541700000210GYDVKO_e58cdd3d1d9a3b98ea47587b70dc13c9_14231&search_date=02112026&expected_price_uuid=01a19e47-b2cf-8030-aaf9-37a4cf14bb12&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=298"
+ },
+ {
+  "id": "F0081",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-25T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 298.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2511MOW1?t=UT17956191001795628100000210GYDVKO_dae87da76e8102bf2efb7f9f5f590a93_14231&search_date=02112026&expected_price_uuid=01a19e48-2b27-8030-6d95-ffd890aaedb2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=298"
+ },
+ {
+  "id": "F0082",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-26T05:50",
+  "arrival_local": null,
+  "duration_min": 425,
+  "stops": 1,
+  "via": null,
+  "price_azn": 342.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2611MOW1?t=2S17956722001795735500001115GYDSAWISTSVO_8cbe16f34c4dbbc9136875f55ab30c33_16352&search_date=02112026&expected_price_uuid=01a19e5e-bb03-8030-ab49-33fe61754ba6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HoM_F9R6bGaNnrkebythxg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=342"
+ },
+ {
+  "id": "F0083",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-27T05:50",
+  "arrival_local": null,
+  "duration_min": 480,
+  "stops": 1,
+  "via": null,
+  "price_azn": 353.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2711MOW1?t=DP17957586001795825500001175GYDSAWISTVKO_908cdec16a30504b82ba063dcb867a08_16854&search_date=02112026&expected_price_uuid=01a19e4f-f584-8030-6485-f4fb11d50f1c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=RV-neoSuJOlrFOJWgTAZCw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=353"
+ },
+ {
+  "id": "F0084",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-28T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 298.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2811MOW1?t=UT17958783001795887300000210GYDVKO_95ec75f5af8263c26d5f6ca9382c5412_14234&search_date=02112026&expected_price_uuid=01a19e48-b2c7-8030-6bc8-0b73e2b15fdb&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=298"
+ },
+ {
+  "id": "F0085",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-29T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 327.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2911MOW1?t=UT17959647001795973700000210GYDVKO_33a469bca327fcababdb8020ffc4ae06_15641&search_date=02112026&expected_price_uuid=01a19e49-136a-8030-607c-785d30a754b5&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=327"
+ },
+ {
+  "id": "F0086",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-11-30T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 269.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD3011MOW1?t=UT17960511001796060100000210GYDVKO_6c6d0496cec1b5f61f1ff73ec6d9f584_12855&search_date=02112026&expected_price_uuid=01a19e49-44fb-8031-619c-f82e1ca151da&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=269"
+ },
+ {
+  "id": "F0087",
+  "airline": "UT",
+  "flight_number": "UT746",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "MOW",
+   "city": "Moscow"
+  },
+  "departure_local": "2026-12-01T15:05",
+  "arrival_local": null,
+  "duration_min": 210,
+  "stops": 0,
+  "via": null,
+  "price_azn": 269.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0112MOW1?t=UT17961375001796146500000210GYDVKO_f1b51fe886c9eae891651f56a2687aa9_12849&search_date=02112026&expected_price_uuid=01a19e62-816a-8031-6eb2-ead20676a817&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JCfqFbb3-QwiZdGIZVM7QQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=269"
+ },
+ {
+  "id": "F0088",
+  "airline": "J2",
+  "flight_number": "J28229",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-03T06:40",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 198.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0311TBS1?t=J217936880001793692200000070GYDTBS_47daf1d8c016784037dd09bbcb8af854_9450&search_date=02112026&expected_price_uuid=01a19e69-8c9c-8030-e651-2d348e467854&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YIic2JL1WOTyh-Y1SUNoQQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=198"
+ },
+ {
+  "id": "F0089",
+  "airline": "J2",
+  "flight_number": "J28229",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-04T06:40",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 179.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0411TBS1?t=J217937744001793778600000070GYDTBS_bff62aa0cb9cbc2f6298c0bdf5b940f4_8550&search_date=02112026&expected_price_uuid=01a19e33-4372-8030-2122-2cf70b65890b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YIic2JL1WOTyh-Y1SUNoQQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=179"
+ },
+ {
+  "id": "F0090",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-05T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 198.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0511TBS1?t=J217938398001793844000000070GYDTBS_b585642e88b2441ddb79331a14baab86_9450&search_date=02112026&expected_price_uuid=01a19df8-5dd6-8030-682a-96bd1b165e5f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=198"
+ },
+ {
+  "id": "F0091",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-06T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 235.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0611TBS1?t=J217939262001793930400000070GYDTBS_e3275684c09e10283fc6be9c486a1d5a_11250&search_date=02112026&expected_price_uuid=01a19e21-9197-8030-a35c-7b0f4600d219&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=235"
+ },
+ {
+  "id": "F0092",
+  "airline": "J2",
+  "flight_number": "J28229",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-07T06:40",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 273.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0711TBS1?t=J217940336001794037800000070GYDTBS_9db60a9274de3429a4d01a560303d46c_13050&search_date=02112026&expected_price_uuid=01a19d5c-08ba-8030-6984-73852de1a593&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YIic2JL1WOTyh-Y1SUNoQQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=273"
+ },
+ {
+  "id": "F0093",
+  "airline": "J2",
+  "flight_number": "J28225",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-08T20:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 235.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0811TBS1?t=J217941710001794175200000070GYDTBS_68d04a45e276a023d8362acccd0585e5_11250&search_date=02112026&expected_price_uuid=01a19deb-0594-8030-ad44-b17b5f616d3d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6V8pnQkaaFmlUhbYv2Mxaw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=235"
+ },
+ {
+  "id": "F0094",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-09T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 235.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0911TBS1?t=J217941854001794189600000070GYDTBS_6b8103d7418b41b9a461f36369efd2d8_11250&search_date=02112026&expected_price_uuid=01a19d62-63f4-8031-69d1-2330db67efb4&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=235"
+ },
+ {
+  "id": "F0095",
+  "airline": "J2",
+  "flight_number": "J28229",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-10T06:40",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 236.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1011TBS1?t=J217942928001794297000000070GYDTBS_3d85141b94882a48f4db53e7641468c0_11250&search_date=02112026&expected_price_uuid=01a19bdc-cf8f-8031-6391-3fde090979f8&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YIic2JL1WOTyh-Y1SUNoQQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=236"
+ },
+ {
+  "id": "F0096",
+  "airline": "J2",
+  "flight_number": "J28229",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-11T06:40",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 235.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1111TBS1?t=J217943792001794383400000070GYDTBS_cbc7bebe2a46bdea7b09e5ceddd0b58a_11250&search_date=02112026&expected_price_uuid=01a19d92-d7de-8031-2914-156e0ab35927&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YIic2JL1WOTyh-Y1SUNoQQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=235"
+ },
+ {
+  "id": "F0097",
+  "airline": "J2",
+  "flight_number": "J28229",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-12T06:40",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 236.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1211TBS1?t=J217944656001794469800000070GYDTBS_84d0b1fdd6d6629a517b6573bb6e03b4_11250&search_date=02112026&expected_price_uuid=01a19ca0-475f-8030-2652-d4b2bc180465&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YIic2JL1WOTyh-Y1SUNoQQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=236"
+ },
+ {
+  "id": "F0098",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-13T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 236.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1311TBS1?t=J217945310001794535200000070GYDTBS_07f2539cd0f71b01394b0a61dcc50a65_11250&search_date=02112026&expected_price_uuid=01a19d05-897e-8031-2c2d-e13981d9d792&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=236"
+ },
+ {
+  "id": "F0099",
+  "airline": "J2",
+  "flight_number": "J28223",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-14T09:25",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 235.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1411TBS1?t=J217946483001794652500000070GYDTBS_c1a43b17e1d04e80897fe42876b98d04_11250&search_date=02112026&expected_price_uuid=01a19d36-6be7-8030-62ef-e93ea3c6f90b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=c8w3Qh6rzjSOmFHy2ORL7w&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=235"
+ },
+ {
+  "id": "F0100",
+  "airline": "J2",
+  "flight_number": "J28225",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-15T20:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 235.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1511TBS1?t=J217947758001794780000000070GYDTBS_d05608a39774a0dff59392da848caa1a_11250&search_date=02112026&expected_price_uuid=01a19d27-9751-8031-6fc0-a526b0174362&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6V8pnQkaaFmlUhbYv2Mxaw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=235"
+ },
+ {
+  "id": "F0101",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-16T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 158.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1611TBS1?t=J217947902001794794400000070GYDTBS_1bf6bc53c82ad5df11e501ed1ae82425_7560&search_date=02112026&expected_price_uuid=01a19de7-049c-8030-e14e-29e227d5abe9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=158"
+ },
+ {
+  "id": "F0102",
+  "airline": "J2",
+  "flight_number": "J28225",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-17T20:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 139.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1711TBS1?t=J217949486001794952800000070GYDTBS_5bf6716ac462a7dbf0f4d248e8c7c6cc_6660&search_date=02112026&expected_price_uuid=01a19e4e-f1e9-8031-2109-e5159efdf859&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6V8pnQkaaFmlUhbYv2Mxaw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=139"
+ },
+ {
+  "id": "F0103",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-18T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1811TBS1?t=J217949630001794967200000070GYDTBS_9c3d488c37b5240019cb42c3b6b620c2_5760&search_date=02112026&expected_price_uuid=01a19d92-87fa-8030-ef2b-96a3f75fcb22&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0104",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-19T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1911TBS1?t=J217950494001795053600000070GYDTBS_b7790390d854aa402683daa21177761d_5760&search_date=02112026&expected_price_uuid=01a19d7c-1e2d-8031-2a17-1f7ec8a3ede6&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0105",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-20T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2011TBS1?t=J217951358001795140000000070GYDTBS_97e9a6588f767ef20764b82098abd61b_5760&search_date=02112026&expected_price_uuid=01a19de4-181a-8030-24c7-53c4963d146e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0106",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-21T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2111TBS1?t=J217952222001795226400000070GYDTBS_ef11f0169746a23a9585d6fdc34ce2b6_5760&search_date=02112026&expected_price_uuid=01a19e61-791b-8031-6084-dac3a1a3a818&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0107",
+  "airline": "J2",
+  "flight_number": "J28229",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-22T06:40",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2211TBS1?t=J217953296001795333800000070GYDTBS_9fb8269374d8d81f80fb327c999f58da_5760&search_date=02112026&expected_price_uuid=01a19d5f-8f1b-8031-6289-88d679cfa5c9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YIic2JL1WOTyh-Y1SUNoQQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0108",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-23T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2311TBS1?t=J217953950001795399200000070GYDTBS_34ccda5a8b5c73e3bfbe5f2e266c79c0_5760&search_date=02112026&expected_price_uuid=01a19cb6-72f6-8030-ac00-945a75c53bbf&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0109",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-24T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2411TBS1?t=J217954814001795485600000070GYDTBS_ba36236edcf9b5dc94fd80ffe547856a_5760&search_date=02112026&expected_price_uuid=01a19d11-41f6-8031-6815-1e0efeed2eec&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0110",
+  "airline": "J2",
+  "flight_number": "J28233",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-25T15:40",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2511TBS1?t=J217956212001795625400000070GYDTBS_3abbed2258ce3067885240e290713c0a_5760&search_date=02112026&expected_price_uuid=01a19e6c-392d-8030-2408-891380c2941a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VFaDhcIkv5ZkTGOyp657VQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0111",
+  "airline": "J2",
+  "flight_number": "J28239",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-26T00:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2611TBS1?t=J217956542001795658400000070GYDTBS_93ed2866041bc03d753a9324c8e3f531_5760&search_date=02112026&expected_price_uuid=01a19e6c-7d1b-8030-6f0b-eb2d0e71c6ec&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kYPgS-VPwj7-XSZ6SEBXfQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0112",
+  "airline": "J2",
+  "flight_number": "J28225",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-27T20:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2711TBS1?t=J217958126001795816800000070GYDTBS_95bc04fc643ec4d10a7e7956c01d4248_5760&search_date=02112026&expected_price_uuid=01a19e6c-17eb-8031-64df-1ce773f6ea99&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6V8pnQkaaFmlUhbYv2Mxaw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0113",
+  "airline": "J2",
+  "flight_number": "J28223",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-28T09:25",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2811TBS1?t=J217958579001795862100000070GYDTBS_5d5968dac45028b5ca196368aecee141_5760&search_date=01112026&expected_price_uuid=01a1996b-17e7-8031-6d09-ae2035db0244&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=c8w3Qh6rzjSOmFHy2ORL7w&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0114",
+  "airline": "J2",
+  "flight_number": "J28225",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-29T20:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 121.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2911TBS1?t=J217959854001795989600000070GYDTBS_218dc9d860753157c1ea9e3c1a316a73_5760&search_date=02112026&expected_price_uuid=01a19c74-224f-8031-645d-534ccc1bd0c2&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6V8pnQkaaFmlUhbYv2Mxaw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=121"
+ },
+ {
+  "id": "F0115",
+  "airline": "J2",
+  "flight_number": "J28233",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-11-30T15:40",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 122.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD3011TBS1?t=J217960532001796057400000070GYDTBS_05e9e91a28a692f8270eb78c44d273fc_5760&search_date=02112026&expected_price_uuid=01a19b56-f677-8030-2aed-ccbd0d59c3ae&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VFaDhcIkv5ZkTGOyp657VQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=122"
+ },
+ {
+  "id": "F0116",
+  "airline": "J2",
+  "flight_number": "J28225",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "TBS",
+   "city": "Tbilisi"
+  },
+  "departure_local": "2026-12-01T20:50",
+  "arrival_local": null,
+  "duration_min": 70,
+  "stops": 0,
+  "via": null,
+  "price_azn": 122.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0112TBS1?t=J217961582001796162400000070GYDTBS_62a0d92c7df23f9d0d07afc5012a9ea6_5760&search_date=01112026&expected_price_uuid=01a198b9-e289-8030-e9a3-73da0ed79698&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6V8pnQkaaFmlUhbYv2Mxaw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=122"
+ },
+ {
+  "id": "F0117",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-03T16:35",
+  "arrival_local": null,
+  "duration_min": 540,
+  "stops": 3,
+  "via": null,
+  "price_azn": 563.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0311LON1?t=VF17937237001793836500002120GYDESBSAWPRGLTN_37c0d8a62d56ccaa551b9601bbaf3489_26927&search_date=02112026&expected_price_uuid=01a19e20-218a-8030-23ba-348bc8ea2fba&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4GMf5qXEGrm60OmqrA22Nw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=563"
+ },
+ {
+  "id": "F0118",
+  "airline": "W6",
+  "flight_number": "W62614",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-04T22:20",
+  "arrival_local": null,
+  "duration_min": 420,
+  "stops": 1,
+  "via": null,
+  "price_azn": 360.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0411LON1?t=W617938308001793961900002425GYDBTSLTN_367f342f8e3e55bf4e3b1c40284aec5e_17184&search_date=02112026&expected_price_uuid=01a19e2d-2393-8031-2d7d-cdac28de2e7c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3pMjG6TofgwDenP2AHZlKg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=360"
+ },
+ {
+  "id": "F0119",
+  "airline": "PC",
+  "flight_number": "PC1721",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-05T04:20",
+  "arrival_local": null,
+  "duration_min": 475,
+  "stops": 2,
+  "via": null,
+  "price_azn": 519.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0511LON1?t=PC17938524001793950800001880GYDESBWAWLTN_5029cdb186ddada428e07f3f381460a7_24776&search_date=02112026&expected_price_uuid=01a19ccf-7f81-8031-6305-76c323e71c57&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ZMM9N_T_K2_xVwzd3e0jAA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=519"
+ },
+ {
+  "id": "F0120",
+  "airline": "TK",
+  "flight_number": "TK578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-06T16:35",
+  "arrival_local": null,
+  "duration_min": 555,
+  "stops": 2,
+  "via": null,
+  "price_azn": 422.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0611LON1?t=VF17939829001794129600002685GYDESBBCNLGW_112cd1a9cda4159f107c0060663863a2_20023&search_date=02112026&expected_price_uuid=01a19b90-d5a7-8031-6dff-1798efa19f7f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=121eLWn3drR6S73ki9y7ww&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=422"
+ },
+ {
+  "id": "F0121",
+  "airline": "W6",
+  "flight_number": "W62614",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-07T22:20",
+  "arrival_local": null,
+  "duration_min": 410,
+  "stops": 1,
+  "via": null,
+  "price_azn": 192.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0711LON1?t=W617940900001794264600003150GYDBTSSTN_d375ed314f1b6b6601e8bca2f84c574d_9165&search_date=02112026&expected_price_uuid=01a19d3a-f52c-8031-6b94-a15b7fe2f609&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mZwkQuVOzUcBV9tmEoQkyQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=192"
+ },
+ {
+  "id": "F0122",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-08T23:50",
+  "arrival_local": null,
+  "duration_min": 500,
+  "stops": 1,
+  "via": null,
+  "price_azn": 304.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0811LON1?t=W617941818001794235200001130GYDBUDLGW_fdf29ba99c5d07bc8b5aa13bc0d7fc52_14439&search_date=02112026&expected_price_uuid=01a19b90-ef6a-8031-2341-1f323ce12b32&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=g2LHKEAtb8BgUR-GpiJH2Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=304"
+ },
+ {
+  "id": "F0123",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-09T23:50",
+  "arrival_local": null,
+  "duration_min": 420,
+  "stops": 1,
+  "via": null,
+  "price_azn": 279.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0911LON1?t=W617942682001794383100002155GYDBUDLTN_51cc421f201996b7f27413852b16676e_13289&search_date=02112026&expected_price_uuid=01a19c54-8f32-8030-a966-556ea32e5d70&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Fe9yii9EkbcYxFiM_3FFzg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=279"
+ },
+ {
+  "id": "F0124",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-10T16:35",
+  "arrival_local": null,
+  "duration_min": 430,
+  "stops": 1,
+  "via": null,
+  "price_azn": 203.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1011LON1?t=VF17943285001794407100001550GYDESBSTN_2bdc4aca42f744f77a2096d43ffad498_9589&search_date=28102026&expected_price_uuid=01a183a1-f7ce-8030-ee77-2a4ca9fad834&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=2refmaJMYmMOr_EnvI2BdA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=202"
+ },
+ {
+  "id": "F0125",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-11T12:30",
+  "arrival_local": null,
+  "duration_min": 445,
+  "stops": 1,
+  "via": null,
+  "price_azn": 206.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1111LON1?t=VF17944002001794483300001625GYDSAWSTN_df3691e75e44fc0f2e93f928437c4343_9760&search_date=27102026&expected_price_uuid=01a17fa9-5c54-8031-2d69-8af831dd5ca2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=Gh6jDd5PbyB6fIrkphPFrA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=206"
+ },
+ {
+  "id": "F0126",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-12T05:50",
+  "arrival_local": null,
+  "duration_min": 445,
+  "stops": 1,
+  "via": null,
+  "price_azn": 204.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1211LON1?t=VF17944626001794483300000585GYDSAWSTN_3f5e520c337096ba9c5c4e4d032944cb_9752&search_date=02112026&expected_price_uuid=01a19d3b-9450-8030-e9d1-6bd0c8c30f7a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=-pyBygrvw0154q0t0YkocA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=204"
+ },
+ {
+  "id": "F0127",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-13T23:50",
+  "arrival_local": null,
+  "duration_min": 420,
+  "stops": 1,
+  "via": null,
+  "price_azn": 231.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1311LON1?t=W617946138001794683700001405GYDBUDLTN_deccbc96ca34830f94bd77c215d9c237_10904&search_date=31102026&expected_price_uuid=01a1914f-215f-8031-2a08-060de35fdb7f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lfP-V9LNRqO1mDGLG8PjUQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=231"
+ },
+ {
+  "id": "F0128",
+  "airline": "W6",
+  "flight_number": "W62500",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-14T23:50",
+  "arrival_local": null,
+  "duration_min": 420,
+  "stops": 1,
+  "via": null,
+  "price_azn": 215.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1411LON1?t=W617947002001794728700000715GYDBUDLTN_cbc89e9acd1a211dd9e198aab3051c1a_10203&search_date=30102026&expected_price_uuid=01a18db5-3291-8031-2206-0661e7f1d698&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GgApUeGBLYmyPabGO830uQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=215"
+ },
+ {
+  "id": "F0129",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-15T23:50",
+  "arrival_local": null,
+  "duration_min": 410,
+  "stops": 1,
+  "via": null,
+  "price_azn": 245.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1511LON1?t=W617947866001794900900002145GYDBUDSTN_148fc57dcb8af058820074151ef3ee43_11580&search_date=28102026&expected_price_uuid=01a182f4-5457-8030-666a-0f784b6ea748&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m0NlcovtA4ksrAC1PlK0wg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=245"
+ },
+ {
+  "id": "F0130",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-16T23:50",
+  "arrival_local": null,
+  "duration_min": 410,
+  "stops": 1,
+  "via": null,
+  "price_azn": 208.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1611LON1?t=W617948730001794900900000705GYDBUDSTN_112021ba2f2812d6cf7d2d6c3f0ed608_9834&search_date=01112026&expected_price_uuid=01a19471-40d6-8030-acd7-b23720364fe8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ZDe46JXIdBnYPm2WRRI7VA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=208"
+ },
+ {
+  "id": "F0131",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-17T05:50",
+  "arrival_local": null,
+  "duration_min": 445,
+  "stops": 1,
+  "via": null,
+  "price_azn": 211.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1711LON1?t=VF17948946001794915000000580GYDSAWSTN_dd060444f06acca1d2e4d69205f0fa36_9981&search_date=01112026&expected_price_uuid=01a1968a-f7ef-8031-635a-297087d9775f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=2q4qpJ3ahcSvBIDnT1dT0Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=211"
+ },
+ {
+  "id": "F0132",
+  "airline": "W6",
+  "flight_number": "W62614",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-18T22:20",
+  "arrival_local": null,
+  "duration_min": 410,
+  "stops": 1,
+  "via": null,
+  "price_azn": 185.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1811LON1?t=W617950404001795213500003125GYDBTSSTN_e9f23a08635b5c8a17d60acad910cf56_8772&search_date=01112026&expected_price_uuid=01a19960-375c-8031-2621-5f1b89da41c2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nWHtIsd0t-J0tZp4NEet-Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=185"
+ },
+ {
+  "id": "F0133",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-19T16:35",
+  "arrival_local": null,
+  "duration_min": 430,
+  "stops": 1,
+  "via": null,
+  "price_azn": 202.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1911LON1?t=VF17951061001795184700001550GYDESBSTN_d77eecf591ca918520a1fd33a053d201_9655&search_date=02112026&expected_price_uuid=01a19ccc-2e2c-8030-670a-38726fb657da&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=2refmaJMYmMOr_EnvI2BdA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=202"
+ },
+ {
+  "id": "F0134",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-20T23:50",
+  "arrival_local": null,
+  "duration_min": 420,
+  "stops": 1,
+  "via": null,
+  "price_azn": 207.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2011LON1?t=W617952186001795247100000715GYDBUDLTN_9668e555e0951afa0855cbbef3bc3db1_9754&search_date=31102026&expected_price_uuid=01a19115-508a-8031-6439-5b3f85dda5d0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dmGV6T-ZO-iIlqYq2bYe1Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=206"
+ },
+ {
+  "id": "F0135",
+  "airline": "W6",
+  "flight_number": "W62614",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-21T22:20",
+  "arrival_local": null,
+  "duration_min": 420,
+  "stops": 1,
+  "via": null,
+  "price_azn": 199.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2111LON1?t=W617952996001795344300000985GYDBTSLTN_ed5a54d3bd9de5f27b737b0e7ff50429_9446&search_date=29102026&expected_price_uuid=01a1881d-0976-8030-ec3b-9aa31c29c966&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mCKfdF-6IwFt0qDSCN56aw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=199"
+ },
+ {
+  "id": "F0136",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-23T23:50",
+  "arrival_local": null,
+  "duration_min": 410,
+  "stops": 1,
+  "via": null,
+  "price_azn": 177.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2311LON1?t=W617954778001795593300002165GYDBUDSTN_6ee94f1b69dcf54db7a2b70abb298f37_8424&search_date=02112026&expected_price_uuid=01a19bb9-a0d4-8030-204e-22e8c5590aaa&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6qEPhmVj-eMTtuaOOJNRPw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=177"
+ },
+ {
+  "id": "F0137",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-24T16:35",
+  "arrival_local": null,
+  "duration_min": 430,
+  "stops": 1,
+  "via": null,
+  "price_azn": 206.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2411LON1?t=VF17955381001795616700001550GYDESBSTN_51481e8b1d03f4f07599823754330ecb_9742&search_date=30102026&expected_price_uuid=01a18da6-3f70-8030-e5fc-c5e232183db5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=2refmaJMYmMOr_EnvI2BdA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=206"
+ },
+ {
+  "id": "F0138",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-25T23:50",
+  "arrival_local": null,
+  "duration_min": 420,
+  "stops": 1,
+  "via": null,
+  "price_azn": 207.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2511LON1?t=W617956506001795679100000715GYDBUDLTN_56505910990d2d975a18c51852255c39_9755&search_date=01112026&expected_price_uuid=01a1972d-b22a-8031-21ec-c961a2e3afbb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dmGV6T-ZO-iIlqYq2bYe1Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=207"
+ },
+ {
+  "id": "F0139",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-26T16:35",
+  "arrival_local": null,
+  "duration_min": 430,
+  "stops": 1,
+  "via": null,
+  "price_azn": 202.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2611LON1?t=VF17957109001795789500001550GYDESBSTN_ff5a9d1e4d3a3d6b2c0458e8084c546e_9576&search_date=02112026&expected_price_uuid=01a19b8f-4207-8030-a5f9-4c3b979e6ed4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=2refmaJMYmMOr_EnvI2BdA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=202"
+ },
+ {
+  "id": "F0140",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-27T05:50",
+  "arrival_local": null,
+  "duration_min": 445,
+  "stops": 1,
+  "via": null,
+  "price_azn": 209.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2711LON1?t=VF17957586001795779000000580GYDSAWSTN_1799a6c01089d16e2fccd7855c4bd143_9853&search_date=01112026&expected_price_uuid=01a196d0-3b52-8030-ae9e-5328f0bafc17&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=2q4qpJ3ahcSvBIDnT1dT0Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=209"
+ },
+ {
+  "id": "F0141",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-28T16:35",
+  "arrival_local": null,
+  "duration_min": 430,
+  "stops": 1,
+  "via": null,
+  "price_azn": 202.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2811LON1?t=VF17958837001795962300001550GYDESBSTN_95c31cce66c2d422e3bdb8c80e24d2af_9655&search_date=02112026&expected_price_uuid=01a19e1f-56d2-8031-6bcf-1917e25bdd8a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=2refmaJMYmMOr_EnvI2BdA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=202"
+ },
+ {
+  "id": "F0142",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-29T23:50",
+  "arrival_local": null,
+  "duration_min": 410,
+  "stops": 1,
+  "via": null,
+  "price_azn": 170.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2911LON1?t=W617959962001796110500002145GYDBUDSTN_4dead258d1b3b792d2943c4a1cee25dd_8114&search_date=02112026&expected_price_uuid=01a19d00-875a-8031-682d-19bc2674825b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m0NlcovtA4ksrAC1PlK0wg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=170"
+ },
+ {
+  "id": "F0143",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-11-30T23:50",
+  "arrival_local": null,
+  "duration_min": 410,
+  "stops": 1,
+  "via": null,
+  "price_azn": 185.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD3011LON1?t=W617960826001796198100002165GYDBUDSTN_efc1e301e670557299e95c29c3c3764e_8744&search_date=01112026&expected_price_uuid=01a1950d-3aad-8031-60cc-d89f37ae8d2d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6qEPhmVj-eMTtuaOOJNRPw&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=185"
+ },
+ {
+  "id": "F0144",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "LON",
+   "city": "London"
+  },
+  "departure_local": "2026-12-01T16:35",
+  "arrival_local": null,
+  "duration_min": 430,
+  "stops": 1,
+  "via": null,
+  "price_azn": 206.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0112LON1?t=VF17961429001796221500001550GYDESBSTN_020e54fc3ce91807ddf25e0fee2e651a_9742&search_date=30102026&expected_price_uuid=01a18deb-e5ac-8030-ab2b-0ee573e97161&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=2refmaJMYmMOr_EnvI2BdA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=206"
+ },
+ {
+  "id": "F0145",
+  "airline": "TK",
+  "flight_number": "TK335",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-03T22:00",
+  "arrival_local": null,
+  "duration_min": 395,
+  "stops": 1,
+  "via": null,
+  "price_azn": 478.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0311FRA1?t=TK17937432001793784600000870GYDISTFRA_53f93da61b556a17a81f3f81cab984b4_22560&search_date=31102026&expected_price_uuid=01a19158-d5cf-8030-a820-c3bef4a388d8&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7A0RkqJnUwar6-CuyLZb5g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=478"
+ },
+ {
+  "id": "F0146",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-04T12:30",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 312.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0411FRA1?t=VF17937954001793883000001640GYDSAWFRA_c87e448d41be14bd8b409116aeda4721_14784&search_date=29102026&expected_price_uuid=01a18711-bd3d-8030-e7b6-b07da856f67f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IVoxlxgED6A09FOOKQQJ1w&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=312"
+ },
+ {
+  "id": "F0147",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-05T05:50",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 344.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0511FRA1?t=VF17938578001793883000000600GYDSAWFRA_2c19cfaebb64ae9ca1bbbdd4af0a85e7_16278&search_date=29102026&expected_price_uuid=01a18635-b977-8030-25a0-c79548b40b71&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6lUyKpdRNeZhIaLKBbrm6g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=344"
+ },
+ {
+  "id": "F0148",
+  "airline": "J2",
+  "flight_number": "J235",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-06T07:30",
+  "arrival_local": null,
+  "duration_min": 395,
+  "stops": 1,
+  "via": null,
+  "price_azn": 544.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0611FRA1?t=J217939502001794039600001670GYDMXPLINFRA_68ddc0056ad68d48012e9316c196d653_26022&search_date=02112026&expected_price_uuid=01a19df4-7383-8030-65a2-7bebd9c4647f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tWnpFna_1bR-4IMd9LMyfA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=544"
+ },
+ {
+  "id": "F0149",
+  "airline": "W6",
+  "flight_number": "W62500",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-07T23:50",
+  "arrival_local": null,
+  "duration_min": 395,
+  "stops": 2,
+  "via": null,
+  "price_azn": 382.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0711FRA1?t=W617940954001794128700000735GYDBUDPRGFRA_69cf9b94669e9795d6d8b906aeae3d4d_18251&search_date=02112026&expected_price_uuid=01a19d0f-9f61-8030-6b1d-76b4f33d9581&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LOiJbr6KmPDCW5kYfP9lEg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=382"
+ },
+ {
+  "id": "F0150",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-08T23:50",
+  "arrival_local": null,
+  "duration_min": 435,
+  "stops": 2,
+  "via": null,
+  "price_azn": 291.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0811FRA1?t=W617941818001794298800002130GYDBUDBGYLINFRA_3381f82cce86d700f39e38bae8826aac_13902&search_date=02112026&expected_price_uuid=01a19d11-246f-8030-66ce-d3d78e62ed79&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BtKPhoRbsxNSYCBak5jwLg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=291"
+ },
+ {
+  "id": "F0151",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-09T23:50",
+  "arrival_local": null,
+  "duration_min": 445,
+  "stops": 2,
+  "via": null,
+  "price_azn": 416.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0911FRA1?t=W617942682001794387900002175GYDBUDBEGFRA_4b00472ddbcbd263f3b5812be39cdfd6_19852&search_date=02112026&expected_price_uuid=01a19d14-4189-8030-eebb-12439b5fecad&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m2_mCCJigxSuW2fe2NeDlg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=416"
+ },
+ {
+  "id": "F0152",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-10T05:50",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 197.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1011FRA1?t=VF17942898001794315000000600GYDSAWFRA_32dde8360e5be4ae75e07e833ffed6bb_9322&search_date=01112026&expected_price_uuid=01a19867-8a2a-8030-e67c-f3b6580e80bc&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6lUyKpdRNeZhIaLKBbrm6g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=197"
+ },
+ {
+  "id": "F0153",
+  "airline": "PC",
+  "flight_number": "PC855",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-11T04:05",
+  "arrival_local": null,
+  "duration_min": 380,
+  "stops": 1,
+  "via": null,
+  "price_azn": 217.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1111FRA1?t=PC17943699001794407100000800GYDSAWFRA_52f24933c591e9bea512551a7c6527af_10298&search_date=28102026&expected_price_uuid=01a1827e-cf7d-8030-25bc-03b0637ac875&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8q5568Ts4Vf9MHbryZ9A1Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=217"
+ },
+ {
+  "id": "F0154",
+  "airline": "TK",
+  "flight_number": "TK182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-12T12:30",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 187.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1211FRA1?t=VF17944866001794574200001640GYDSAWFRA_e96ac55c20c5bad8efa0d1878ca40a00_8944&search_date=02112026&expected_price_uuid=01a19c82-a954-8031-6bbb-957ef4c3ece0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IVoxlxgED6A09FOOKQQJ1w&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=187"
+ },
+ {
+  "id": "F0155",
+  "airline": "PC",
+  "flight_number": "PC855",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-13T04:05",
+  "arrival_local": null,
+  "duration_min": 380,
+  "stops": 1,
+  "via": null,
+  "price_azn": 227.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1311FRA1?t=PC17945427001794579900000800GYDSAWFRA_706a1a65298e65eb6d5626ac2756ee5f_10707&search_date=31102026&expected_price_uuid=01a19373-0f97-8030-25e8-85788ee687fd&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8q5568Ts4Vf9MHbryZ9A1Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=227"
+ },
+ {
+  "id": "F0156",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-14T12:30",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 249.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1411FRA1?t=VF17946594001794747000001640GYDSAWFRA_9d7931b973e30e6353acfe7b4585df77_11813&search_date=27102026&expected_price_uuid=01a17e2a-fda4-8030-ec40-12436eca0a89&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IVoxlxgED6A09FOOKQQJ1w&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=249"
+ },
+ {
+  "id": "F0157",
+  "airline": "W6",
+  "flight_number": "W62366",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-15T23:50",
+  "arrival_local": null,
+  "duration_min": 535,
+  "stops": 2,
+  "via": null,
+  "price_azn": 347.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1511FRA1?t=W617947866001794855000001320GYDBUDCTAHHN_bcc872e599000a43a8551e38d3547edb_16575&search_date=02112026&expected_price_uuid=01a19dc7-ff82-8031-69ff-6fb1eac9c3ee&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mtqR0BkZ8lK95H-Xtjssow&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=347"
+ },
+ {
+  "id": "F0158",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-16T12:35",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 205.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1611FRA1?t=VF17948325001794919800001635GYDSAWFRA_b4ca7cb69d6f70f0652c01e310e06c88_9674&search_date=01112026&expected_price_uuid=01a19471-c458-8030-6fb0-dde16e1745fb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-bCfJcJY0u9f1nzO5ocMaQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=205"
+ },
+ {
+  "id": "F0159",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-17T05:50",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 203.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1711FRA1?t=VF17948946001794919800000600GYDSAWFRA_4501084f7a410d2720beecc20c472275_9667&search_date=29102026&expected_price_uuid=01a186e6-9685-8030-6057-737a2906a0a5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6lUyKpdRNeZhIaLKBbrm6g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=203"
+ },
+ {
+  "id": "F0160",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-18T16:35",
+  "arrival_local": null,
+  "duration_min": 380,
+  "stops": 1,
+  "via": null,
+  "price_azn": 203.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1811FRA1?t=VF17950197001795102200001555GYDESBFRA_3d64babfef4fe7b0193d02dcb7626d83_9578&search_date=31102026&expected_price_uuid=01a190d0-c92a-8030-a866-c1ba36807ccd&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oxthdqmB2bcW6MEw-c_c9g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=203"
+ },
+ {
+  "id": "F0161",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-19T16:35",
+  "arrival_local": null,
+  "duration_min": 380,
+  "stops": 1,
+  "via": null,
+  "price_azn": 203.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD1911FRA1?t=VF17951061001795188600001555GYDESBFRA_dca77252ca7f2c5c2b226e6eaf81e7f0_9578&search_date=31102026&expected_price_uuid=01a1909d-477f-8030-a5f3-39ae2b950967&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oxthdqmB2bcW6MEw-c_c9g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=203"
+ },
+ {
+  "id": "F0162",
+  "airline": "PC",
+  "flight_number": "PC855",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-20T04:05",
+  "arrival_local": null,
+  "duration_min": 380,
+  "stops": 1,
+  "via": null,
+  "price_azn": 231.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2011FRA1?t=PC17951475001795184700000800GYDSAWFRA_5a576d7f0adf9409359dc7c924b64e66_10903&search_date=01112026&expected_price_uuid=01a196ea-5713-8030-e959-f5628fe7c4fb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8q5568Ts4Vf9MHbryZ9A1Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=231"
+ },
+ {
+  "id": "F0163",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-21T05:50",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 184.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2111FRA1?t=VF17952402001795276500000785GYDSAWFRA_16552834a4af5e12cc2341c9e0a258d1_8794&search_date=02112026&expected_price_uuid=01a19e6a-c346-8030-ad64-6f1e2a9b5af1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=XLe959d2raVYwgtKf6XGgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=184"
+ },
+ {
+  "id": "F0164",
+  "airline": "TK",
+  "flight_number": "TK182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-22T12:35",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 265.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2211FRA1?t=VF17953509001795438200001635GYDSAWFRA_c154797c85e8deef5b48c5b0282f9cc9_12574&search_date=01112026&expected_price_uuid=01a19952-0bba-8030-ee73-c3727a863a6b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-bCfJcJY0u9f1nzO5ocMaQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=265"
+ },
+ {
+  "id": "F0165",
+  "airline": "VF",
+  "flight_number": "VF182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-23T12:35",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 203.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2311FRA1?t=VF17954373001795535700001820GYDSAWFRA_3421645ef6b10df8526faa611ada87aa_9662&search_date=02112026&expected_price_uuid=01a19a70-c84c-8030-6bb6-15cda029cb41&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=scz-c1zt5IdwzPbSRetH-Q&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=203"
+ },
+ {
+  "id": "F0166",
+  "airline": "PC",
+  "flight_number": "PC855",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-24T04:05",
+  "arrival_local": null,
+  "duration_min": 380,
+  "stops": 1,
+  "via": null,
+  "price_azn": 194.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2411FRA1?t=PC17954931001795516200000565GYDSAWFRA_4ca246556b7cd9f0d828a381ace457d7_9278&search_date=02112026&expected_price_uuid=01a19d28-21e6-8030-e464-d04c5efcb425&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0-4YTW-Qv0edOLqaEpVbXg&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=194"
+ },
+ {
+  "id": "F0167",
+  "airline": "TK",
+  "flight_number": "TK578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-25T16:35",
+  "arrival_local": null,
+  "duration_min": 380,
+  "stops": 1,
+  "via": null,
+  "price_azn": 186.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2511FRA1?t=VF17956245001795707000001555GYDESBFRA_d63e69916677ada6b7ca914e3f397967_8857&search_date=02112026&expected_price_uuid=01a19c80-6a96-8030-ac20-e4e77127d665&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oxthdqmB2bcW6MEw-c_c9g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=186"
+ },
+ {
+  "id": "F0168",
+  "airline": "VF",
+  "flight_number": "VF578",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-26T16:35",
+  "arrival_local": null,
+  "duration_min": 380,
+  "stops": 1,
+  "via": null,
+  "price_azn": 182.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2611FRA1?t=VF17957109001795793400001555GYDESBFRA_efcaf04824d0bd97283df3d6b76ada19_8599&search_date=01112026&expected_price_uuid=01a19656-acad-8031-2f60-f2895afffddb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oxthdqmB2bcW6MEw-c_c9g&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=182"
+ },
+ {
+  "id": "F0169",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-27T05:50",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 204.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2711FRA1?t=VF17957586001795794900000785GYDSAWFRA_6e0575391fe2620b30d364480f5aff10_9697&search_date=02112026&expected_price_uuid=01a19a6f-92e7-8030-2907-620a9e9522ef&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=XLe959d2raVYwgtKf6XGgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=204"
+ },
+ {
+  "id": "F0170",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-28T05:50",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 198.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2811FRA1?t=VF17958450001795881300000785GYDSAWFRA_a449da2017f9472744abda9bc686672e_9478&search_date=02112026&expected_price_uuid=01a19d7c-b0a8-8030-6c34-0da12385a561&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=XLe959d2raVYwgtKf6XGgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=198"
+ },
+ {
+  "id": "F0171",
+  "airline": "TK",
+  "flight_number": "TK182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-29T12:35",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 181.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD2911FRA1?t=VF17959557001796043000001635GYDSAWFRA_d8ea6a79e39b0b68ddfcde5851795c3f_8615&search_date=02112026&expected_price_uuid=01a19cfb-4b89-8030-6ba2-785adf372525&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-bCfJcJY0u9f1nzO5ocMaQ&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=181"
+ },
+ {
+  "id": "F0172",
+  "airline": "VF",
+  "flight_number": "VF180",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-11-30T05:50",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 194.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD3011FRA1?t=VF17960178001796054100000785GYDSAWFRA_410eb46a2693db103b6d710cfbc6878f_9268&search_date=02112026&expected_price_uuid=01a19d03-d5e7-8030-615f-6c70cda7c5a5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=XLe959d2raVYwgtKf6XGgA&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=194"
+ },
+ {
+  "id": "F0173",
+  "airline": "TK",
+  "flight_number": "TK182",
+  "origin": {
+   "code": "BAK",
+   "city": "BAK"
+  },
+  "destination": {
+   "code": "FRA",
+   "city": "Frankfurt"
+  },
+  "departure_local": "2026-12-01T12:30",
+  "arrival_local": null,
+  "duration_min": 400,
+  "stops": 1,
+  "via": null,
+  "price_azn": 181.0,
+  "cabin": "economy",
+  "baggage_kg": null,
+  "seats_available": null,
+  "link": "https://www.aviasales.com/search/GYD0112FRA1?t=VF17961282001796215800001640GYDSAWFRA_c1d26104d103f3db2a5a025561f464cb_8629&search_date=02112026&expected_price_uuid=01a19db2-303a-8030-a697-f78e6b5dfc21&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IVoxlxgED6A09FOOKQQJ1w&origin_airports=0&expected_price_source=share&expected_price_currency=azn&expected_price=181"
+ }
+]

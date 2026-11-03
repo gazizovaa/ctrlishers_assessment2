@@ -1,0 +1,8 @@
+GET date=yyyy-mm-dd
+GET https://cinemastercard.az/get_sessions_by_date.php?home=yes&lang=en&date=2026-11-03
+status=500 content-type=text/html; charset=utf-8
+
+
+
+Unable to complete this request due to an error. - Error has been logged.
+

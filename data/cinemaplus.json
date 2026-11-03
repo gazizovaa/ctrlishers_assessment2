@@ -1,0 +1,1522 @@
+{
+ "movies": [
+  {
+   "id": "M001",
+   "title": "İmroz'da Bahar - QALA GECƏ",
+   "genre": [],
+   "language": "Turkish",
+   "languages": [
+    "Turkish"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "16+",
+   "rating": null,
+   "synopsis": "Arif, a writer who has been struggling with writer’s block for a long time, travels to Gökçeada for a month at the suggestion of his editor. There, he meets Sonya, a woman who has been living a solitary life since losing her husband and son three years earlier. As Arif and Sonya struggle to come to terms with the pain of their pasts, an unexpected closeness gradually develops between them. In the peaceful atmosphere of the island, they begin to touch each other’s lives and discover whether it is possible to love again and find the strength to carry on while confronting their losses.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/43/52/912/imrozdabahar-700x1000_qala.jpg",
+   "url": "https://cinemastercard.az/en/films/i-mrozda-bahar/"
+  },
+  {
+   "id": "M002",
+   "title": "44",
+   "genre": [],
+   "language": "Azerbaijani",
+   "languages": [
+    "Azerbaijani"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "12+",
+   "rating": null,
+   "synopsis": "The feature film “44” is a drama of heroism and love, seen through the eyes of a military cadet. The events depicted in the film embody the spirit, will, and sacrifice of a generation that rose to defend the Motherland, represented through the story of the special forces operators. At the center of the plot are Officer of the Special Operations Forces Rashad Khalilov, Turkish orthopedic doctor Zeynab Ozdemir, who works in Azerbaijan, and the commander of the special operations unit Colonel Ramazan Karimov. Alongside a storyline of love and personal trials, intense military operations unfold in the film. “44” is not merely a film about war. This film is the story of the Azerbaijani people, whose hearts beat with love for the Motherland, who never lost hope and who fought selflessly until the end for the liberation of their lands. “44” is an artistic chronicle of a historic Victory achieved through the Iron Fist of the Commander-in-Chief, the unity of the people, and the heroism of our brave sons!",
+   "poster": "https://cinemastercard.az/site/assets/files/0/42/93/516/44_veb_sayt_700x1000_jpg.jpeg",
+   "url": "https://cinemastercard.az/en/films/44/"
+  },
+  {
+   "id": "M003",
+   "title": "Resident Evil",
+   "genre": [],
+   "language": "English",
+   "languages": [
+    "English",
+    "Russian",
+    "Turkish"
+   ],
+   "format": [],
+   "duration_min": null,
+   "age_rating": "18+",
+   "rating": null,
+   "synopsis": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/41/59/936/resident-evil-700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/resident-evil/"
+  },
+  {
+   "id": "M004",
+   "title": "Forgotten Island",
+   "genre": [],
+   "language": "Russian",
+   "languages": [
+    "Russian",
+    "Turkish"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "6+",
+   "rating": null,
+   "synopsis": "Two best friends become stranded on the mystical world of Nakali, where their only escape might cost them their shared lifetime of memories.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/42/70/161/forgotten-island-700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/forgotten-island/"
+  },
+  {
+   "id": "M005",
+   "title": "Other Mommy",
+   "genre": [],
+   "language": "Russian",
+   "languages": [
+    "Russian"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "18+",
+   "rating": null,
+   "synopsis": "Bela, an 8-year-old girl living in a home with marital problems, confronts a sinister entity that comes out of her closet. The presence, who she calls ",
+   "poster": "https://cinemastercard.az/site/assets/files/0/42/69/997/other-mommy-700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/other-mommy/"
+  },
+  {
+   "id": "M006",
+   "title": "Clayface",
+   "genre": [],
+   "language": "Russian",
+   "languages": [
+    "Russian"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "18+",
+   "rating": null,
+   "synopsis": "After an injury disfigures his face, young actor Matt Hagen agrees to undergo a special treatment. However, the scientific experiment fails to produce the expected results, leaving his body and skin flexible and malleable like clay. Having lost his sense of identity and humanity, the actor transforms into a monster driven by a thirst for revenge.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/42/73/848/clayface-700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/clayface/"
+  },
+  {
+   "id": "M007",
+   "title": "Verity",
+   "genre": [],
+   "language": "English",
+   "languages": [
+    "English",
+    "Russian"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "18+",
+   "rating": null,
+   "synopsis": "Lowen Ashleigh, a struggling writer in need of work, receives an offer from Jeremy Crawford to complete his wife’s novels. Jeremy’s wife, Verity Crawford, is the author of a popular series of novels, but after a mysterious accident, she is unable to finish her work. The job takes an unexpected turn when Lowen discovers Verity’s disturbing personal notes. As she uncovers family secrets, Lowen tries to separate fact from fiction while the boundaries of her relationship with Jeremy begin to blur.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/42/69/991/verity--700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/verity/"
+  },
+  {
+   "id": "M008",
+   "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+   "genre": [],
+   "language": "Russian",
+   "languages": [
+    "Russian"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "6+",
+   "rating": null,
+   "synopsis": "Disaster is brewing at Mossy Bottom Farm: the clumsy Farmer somehow manages to destroy the entire pumpkin crop, putting the town’s festival in jeopardy. Genius Shaun the Sheep decides to fix the problem with science, but something goes terribly wrong: the Farmer disappears, and a Hairy Monster is howling in the woods. Now Shaun, Bitzer the dog and the whole woolly crew must save the farm from a fluffy apocalypse.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/43/06/899/sheep-700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/shaun-the-sheep-the-beast-of-mossy-bottom/"
+  },
+  {
+   "id": "M009",
+   "title": "Heart of the Beast",
+   "genre": [],
+   "language": "Russian",
+   "languages": [
+    "Russian"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "16+",
+   "rating": null,
+   "synopsis": "After a plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded in the remote Alaskan wilderness. Together, they must fight for survival against the brutal forces of nature.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/42/65/577/zveria-700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/heart-of-the-beast/"
+  },
+  {
+   "id": "M010",
+   "title": "Cinhar",
+   "genre": [],
+   "language": "Turkish",
+   "languages": [
+    "Turkish"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "18+",
+   "rating": null,
+   "synopsis": "The lives of Narin and Yusuf, a young couple living in a remote mountain village in Sakarya where the mists never lift, change forever when they lose their baby. Hoping to share her sister’s grief, Çiçek comes from the city, bringing not ordinary comfort but an amulet sealed in darkness. Having been involved with magic and supernatural entities since childhood, the young woman carries a secret inherited from their mother. As grief gives way to ever-deepening terror, the door that has been opened can no longer be shut. And behind it awaits a reckoning from which there is no return.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/43/32/230/cinhar-700x1000_jpg.jpeg",
+   "url": "https://cinemastercard.az/en/films/cinhar/"
+  },
+  {
+   "id": "M011",
+   "title": "Çatlı 2",
+   "genre": [],
+   "language": "Turkish",
+   "languages": [
+    "Turkish"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "18+",
+   "rating": null,
+   "synopsis": "The film continues the story of Abdullah Çatlı, who is imprisoned in France.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/43/05/910/catli2-700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/catli-2/"
+  },
+  {
+   "id": "M012",
+   "title": "Whalefall",
+   "genre": [],
+   "language": "Russian",
+   "languages": [
+    "Russian"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "16+",
+   "rating": null,
+   "synopsis": "California. Young scuba diver Jay Gardiner dives into the ocean in search of his father’s remains, only to be swallowed by a giant sperm whale. Now Jay has one hour to escape from the whale before his oxygen runs out. Trapped on the brink of death, he remembers his father and finds the strength to overcome his fear and fight for his life.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/42/70/158/whalefall-700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/whalefall/"
+  },
+  {
+   "id": "M013",
+   "title": "Street Fighter",
+   "genre": [],
+   "language": "Russian",
+   "languages": [
+    "Russian",
+    "Turkish"
+   ],
+   "format": [],
+   "duration_min": null,
+   "age_rating": "16+",
+   "rating": null,
+   "synopsis": "Street fighters Ryu and Ken reunite and are drawn into the world of martial arts when the mysterious Chun-Li invites them to compete in a new World Warrior tournament. But behind the spectacular fights lies a dangerous conspiracy that forces the fighters to battle each other and confront the demons of their past.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/42/70/142/street-fighter-700x1000.jpg",
+   "url": "https://cinemastercard.az/en/films/street-fighter/"
+  },
+  {
+   "id": "M014",
+   "title": "The Rivals of Amziah King",
+   "genre": [],
+   "language": "Russian",
+   "languages": [
+    "Russian"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "18+",
+   "rating": null,
+   "synopsis": "A small town in Oklahoma. Charismatic Amziah King leads a bluegrass band while also running the town’s leading honey business. One day, his adopted daughter Kateri returns to town, and Amziah decides to rebuild their relationship and bring her into the family business by inviting her to help tend the beehives. Kateri gladly agrees and gradually becomes immersed in her new line of work. But one day, all the beehives are stolen.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/43/06/910/ul_ia-700ch1000.jpg",
+   "url": "https://cinemastercard.az/en/films/the-rivals-of-amziah-king/"
+  },
+  {
+   "id": "M015",
+   "title": "Spider-Man: Brand New Day",
+   "genre": [],
+   "language": "Turkish",
+   "languages": [
+    "Turkish"
+   ],
+   "format": [
+    "3D"
+   ],
+   "duration_min": null,
+   "age_rating": "18+",
+   "rating": null,
+   "synopsis": "Peter Parker tries to focus on college and leave Spider-Man behind. But when a new threat endangers his friends, he must break his promise and suit up again, teaming with an unexpected ally to protect those he loves.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/39/24/176/spider_screenx_web_jpg.jpeg",
+   "url": "https://cinemastercard.az/en/films/spider-man-brand-new-day/"
+  },
+  {
+   "id": "M016",
+   "title": "The Odyssey",
+   "genre": [],
+   "language": "Russian",
+   "languages": [
+    "Russian",
+    "Turkish"
+   ],
+   "format": [
+    "2D"
+   ],
+   "duration_min": null,
+   "age_rating": "18+",
+   "rating": null,
+   "synopsis": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Circe along the way.",
+   "poster": "https://cinemastercard.az/site/assets/files/0/39/24/097/ody_web_jpg.jpeg",
+   "url": "https://cinemastercard.az/en/films/the-odyssey/"
+  }
+ ],
+ "cinemas": [
+  {
+   "id": "C01",
+   "name": "Sumqayıt",
+   "district": null,
+   "address": null
+  },
+  {
+   "id": "C02",
+   "name": "28 Mall",
+   "district": null,
+   "address": null
+  },
+  {
+   "id": "C03",
+   "name": "Ganja Mall",
+   "district": null,
+   "address": null
+  },
+  {
+   "id": "C04",
+   "name": "Deniz Mall",
+   "district": null,
+   "address": null
+  },
+  {
+   "id": "C05",
+   "name": "Ganjlik Mall",
+   "district": null,
+   "address": null
+  },
+  {
+   "id": "C06",
+   "name": "Amburan Mall",
+   "district": null,
+   "address": null
+  },
+  {
+   "id": "C07",
+   "name": "Bakikhanov Mall",
+   "district": null,
+   "address": null
+  },
+  {
+   "id": "C08",
+   "name": "Azerbaijan Cinema",
+   "district": null,
+   "address": null
+  }
+ ],
+ "showtimes": [
+  {
+   "id": "S00001",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "10:00",
+   "hall": "Zal 3",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00002",
+   "movie_id": "M011",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "10:00",
+   "hall": "Zal 2",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00003",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "10:05",
+   "hall": "Zal 6",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00004",
+   "movie_id": "M002",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "10:05",
+   "hall": "Zal 5",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00005",
+   "movie_id": "M011",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "10:05",
+   "hall": "1664 Blanc",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00006",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "10:10",
+   "hall": "Badamlı",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00007",
+   "movie_id": "M011",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "10:10",
+   "hall": "Zal 1",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 5.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00008",
+   "movie_id": "M010",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "10:10",
+   "hall": "Zal 8 (Atmos)",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00009",
+   "movie_id": "M010",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "10:10",
+   "hall": "Zal 2",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 5.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00010",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "10:15",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00011",
+   "movie_id": "M010",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "10:25",
+   "hall": "Zal 2",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 5.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00012",
+   "movie_id": "M002",
+   "cinema_id": "C06",
+   "date": "2026-11-03",
+   "time": "12:00",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00013",
+   "movie_id": "M002",
+   "cinema_id": "C07",
+   "date": "2026-11-03",
+   "time": "12:00",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00014",
+   "movie_id": "M010",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "12:15",
+   "hall": "Coca Cola",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00015",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "12:30",
+   "hall": "VIP 9 (Diamond)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 20.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00016",
+   "movie_id": "M010",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "12:35",
+   "hall": "PAŞA Həyat",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00017",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "12:50",
+   "hall": "Zal 4",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00018",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "13:05",
+   "hall": "Zal 3",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00019",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "13:10",
+   "hall": "Zal 6",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00020",
+   "movie_id": "M002",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "13:10",
+   "hall": "Zal 5",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00021",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "13:20",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00022",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "14:00",
+   "hall": "Zal 9 (Atmos)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00023",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "14:00",
+   "hall": "Zal 8 (Atmos)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00024",
+   "movie_id": "M002",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "14:10",
+   "hall": "Zal 2",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00025",
+   "movie_id": "M002",
+   "cinema_id": "C08",
+   "date": "2026-11-03",
+   "time": "14:15",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 10.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00026",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "14:20",
+   "hall": "Screen X",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00027",
+   "movie_id": "M011",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "14:25",
+   "hall": "Zal 3",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 5.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00028",
+   "movie_id": "M011",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "14:35",
+   "hall": "1664 Blanc",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00029",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "14:45",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00030",
+   "movie_id": "M002",
+   "cinema_id": "C07",
+   "date": "2026-11-03",
+   "time": "15:05",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00031",
+   "movie_id": "M011",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "15:05",
+   "hall": "Zal 3",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00032",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "15:15",
+   "hall": "Badamlı",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00033",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "15:55",
+   "hall": "Zal 4",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00034",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "16:10",
+   "hall": "Zal 3",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00035",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "16:15",
+   "hall": "Zal 6",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00036",
+   "movie_id": "M002",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "16:15",
+   "hall": "Zal 5",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00037",
+   "movie_id": "M010",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "16:20",
+   "hall": "MasterCard",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00038",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "16:25",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00039",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "16:40",
+   "hall": "Platinum",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 20.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00040",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "16:45",
+   "hall": "VIP 10 (Diamond)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 20.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00041",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "17:05",
+   "hall": "Zal 9 (Atmos)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00042",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "17:05",
+   "hall": "Zal 8 (Atmos)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00043",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "17:10",
+   "hall": "Zal 2",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00044",
+   "movie_id": "M002",
+   "cinema_id": "C06",
+   "date": "2026-11-03",
+   "time": "17:15",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 10.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00045",
+   "movie_id": "M002",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "17:15",
+   "hall": "Zal 2",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00046",
+   "movie_id": "M002",
+   "cinema_id": "C08",
+   "date": "2026-11-03",
+   "time": "17:20",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 10.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00047",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "17:25",
+   "hall": "Screen X",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00048",
+   "movie_id": "M010",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "17:25",
+   "hall": "Zal 3",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00049",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "17:50",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00050",
+   "movie_id": "M002",
+   "cinema_id": "C07",
+   "date": "2026-11-03",
+   "time": "18:10",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00051",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "18:20",
+   "hall": "Badamlı",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00052",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "18:50",
+   "hall": "PAŞA Həyat",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00053",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "hall": "Zal 4",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00054",
+   "movie_id": "M011",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "hall": "Zal 2",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00055",
+   "movie_id": "M011",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "19:10",
+   "hall": "Zal 1",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 5.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00056",
+   "movie_id": "M002",
+   "cinema_id": "C08",
+   "date": "2026-11-03",
+   "time": "19:15",
+   "hall": "Zal 3 VIP",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 30.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00057",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "19:15",
+   "hall": "Zal 3",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00058",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "19:20",
+   "hall": "Zal 6",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00059",
+   "movie_id": "M002",
+   "cinema_id": "C06",
+   "date": "2026-11-03",
+   "time": "19:20",
+   "hall": "Platinum",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 30.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00060",
+   "movie_id": "M002",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "19:20",
+   "hall": "Zal 5",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00061",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00062",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "19:45",
+   "hall": "Platinum",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 20.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00063",
+   "movie_id": "M002",
+   "cinema_id": "C07",
+   "date": "2026-11-03",
+   "time": "19:50",
+   "hall": "Zal 2",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00064",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "19:50",
+   "hall": "VIP 10 (Diamond)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 20.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00065",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "20:10",
+   "hall": "Zal 9 (Atmos)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00066",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "20:10",
+   "hall": "Zal 8 (Atmos)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00067",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "20:15",
+   "hall": "Zal 2",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00068",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "20:20",
+   "hall": "Platinum",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 20.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00069",
+   "movie_id": "M002",
+   "cinema_id": "C06",
+   "date": "2026-11-03",
+   "time": "20:20",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 10.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00070",
+   "movie_id": "M002",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "20:20",
+   "hall": "Zal 2",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00071",
+   "movie_id": "M011",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "20:20",
+   "hall": "MasterCard",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00072",
+   "movie_id": "M002",
+   "cinema_id": "C08",
+   "date": "2026-11-03",
+   "time": "20:25",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 10.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00073",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "20:30",
+   "hall": "Screen X",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00074",
+   "movie_id": "M011",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "20:45",
+   "hall": "Coca Cola",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00075",
+   "movie_id": "M011",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "20:55",
+   "hall": "Zal 1",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 5.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00076",
+   "movie_id": "M010",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "21:30",
+   "hall": "Zal 1",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 5.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00077",
+   "movie_id": "M010",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "21:45",
+   "hall": "1664 Blanc",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00078",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "21:55",
+   "hall": "PAŞA Həyat",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00079",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "22:05",
+   "hall": "Zal 4",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00080",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "22:10",
+   "hall": "VIP 9 (Diamond)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 20.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00081",
+   "movie_id": "M002",
+   "cinema_id": "C08",
+   "date": "2026-11-03",
+   "time": "22:20",
+   "hall": "Zal 3 VIP",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 30.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00082",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "22:20",
+   "hall": "Zal 3",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00083",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "22:25",
+   "hall": "Zal 6",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00084",
+   "movie_id": "M002",
+   "cinema_id": "C06",
+   "date": "2026-11-03",
+   "time": "22:25",
+   "hall": "Platinum",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 30.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00085",
+   "movie_id": "M002",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "22:25",
+   "hall": "Zal 5",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00086",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "22:35",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00087",
+   "movie_id": "M010",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "22:40",
+   "hall": "MasterCard",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00088",
+   "movie_id": "M011",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "22:45",
+   "hall": "Zal 4",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 5.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00089",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "22:50",
+   "hall": "Platinum",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 20.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00090",
+   "movie_id": "M002",
+   "cinema_id": "C07",
+   "date": "2026-11-03",
+   "time": "22:55",
+   "hall": "Zal 2",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00091",
+   "movie_id": "M002",
+   "cinema_id": "C06",
+   "date": "2026-11-03",
+   "time": "23:00",
+   "hall": "Zal 2",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 10.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00092",
+   "movie_id": "M002",
+   "cinema_id": "C05",
+   "date": "2026-11-03",
+   "time": "23:15",
+   "hall": "Zal 9 (Atmos)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00093",
+   "movie_id": "M002",
+   "cinema_id": "C01",
+   "date": "2026-11-03",
+   "time": "23:15",
+   "hall": "Zal 1",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00094",
+   "movie_id": "M002",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "23:15",
+   "hall": "Zal 8 (Atmos)",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00095",
+   "movie_id": "M002",
+   "cinema_id": "C03",
+   "date": "2026-11-03",
+   "time": "23:25",
+   "hall": "Zal 2",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00096",
+   "movie_id": "M011",
+   "cinema_id": "C04",
+   "date": "2026-11-03",
+   "time": "23:25",
+   "hall": "1664 Blanc",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00097",
+   "movie_id": "M002",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "23:35",
+   "hall": "Screen X",
+   "format": "Film Azərbaycan dilində nümayiş olunur Film 2D formatında nümayiş olunur",
+   "price_azn": 8.0,
+   "seats_total": null,
+   "seats_available": null
+  },
+  {
+   "id": "S00098",
+   "movie_id": "M010",
+   "cinema_id": "C02",
+   "date": "2026-11-03",
+   "time": "23:35",
+   "hall": "Zal 2",
+   "format": "Film Türk dilində nümayiş olunur Film 2D formatında nümayiş olunur Film Azərbaycan subtitrləri ilə nümayiş olunur",
+   "price_azn": 6.0,
+   "seats_total": null,
+   "seats_available": null
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+POST date=yyyy-mm-dd
+POST https://cinemastercard.az/get_sessions_by_date.php?home=yes&lang=en
+status=500 content-type=text/html; charset=utf-8
+
+
+
+Unable to complete this request due to an error. - Error has been logged.
+

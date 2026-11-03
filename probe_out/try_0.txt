@@ -1,0 +1,4 @@
+GET dates
+GET https://cinemastercard.az/getSessionsDates.php
+status=200 content-type=text/html; charset=utf-8
+

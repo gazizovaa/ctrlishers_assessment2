@@ -1,0 +1,412 @@
+==========================================================================================
+get_sessions_by_date  |  https://cinemastercard.az/site/templates/js/main.js?av=1793672473
+    selected_date = date_selected_home;
+
+        $(".date_filter > a").removeClass("active");
+
+        $("a[data-df_date='" + date_selected_home + "']").addClass("active");
+
+        $("#dateofloaded_sessions p").text(date_selected_home);
+
+        $("#loading_sessions").slideDown("fast");
+
+        $(".sessions_table").slideUp("fast");
+
+        $.ajax({
+
+            url: "//"+window.location.host+"/get_sessions_by_date.php?platinum=yes&lang=" + $("header").data('lang'),
+
+            data: {
+
+                datex: date_selected_home
+
+            },
+
+            success: function(data) {
+
+                $("#no_sessions").hide();
+
+                if (data !== "") {
+
+                    $(".sessions_table tbody").html(data);
+
+                    $("#loading_sessions").slideUp("fast");
+
+                    $(".sessions_table, #dateofloaded_sessions").slideDown("fast");
+
+                    //$(".sessions_table tbody tr").show();
+
+                    filter_table();
+
+                } else {
+
+                  
+==========================================================================================
+get_sessions_by_date  |  https://cinemastercard.az/site/templates/js/main.js?av=1793672473
+    selected_date = date_selected_home;
+
+        $(".date_filter > a").removeClass("active");
+
+        $("a[data-df_date='" + date_selected_home + "']").addClass("active");
+
+        $("#dateofloaded_sessions p").text(date_selected_home);
+
+        $("#loading_sessions").slideDown("fast");
+
+        $(".sessions_table").slideUp("fast");
+
+        $.ajax({
+
+            url: "//"+window.location.host+"/get_sessions_by_date.php?dolby=yes&lang=" + $("header").data('lang'),
+
+            data: {
+
+                datex: date_selected_home
+
+            },
+
+            success: function(data) {
+
+                $("#no_sessions").hide();
+
+                if (data !== "") {
+
+                    $(".sessions_table tbody").html(data);
+
+                    $("#loading_sessions").slideUp("fast");
+
+                    $(".sessions_table, #dateofloaded_sessions").slideDown("fast");
+
+                    //$(".sessions_table tbody tr").show();
+
+                    filter_table();
+
+                } else {
+
+                    $
+==========================================================================================
+get_sessions_by_date  |  https://cinemastercard.az/site/templates/js/main.js?av=1793672473
+"a[data-df_date='"+$("select.home_date_sessions option:eq(1)").val()+"']").addClass("active");
+
+            				$('.home_date_sessions').trigger("change");
+
+            			}
+
+            */
+
+        } else {
+
+            var qdata = {
+
+                datex: date_selected_home
+
+            };
+
+        }
+
+        //console.log(qdata);
+
+        $.ajax({
+
+            url: "//"+window.location.host+"/get_sessions_by_date.php?home=yes&lang=" + $("header").data('lang'),
+
+            data: qdata,
+
+            success: function(data) {
+
+                $("#no_sessions").hide();
+
+                if (data !== "") {
+
+                    $(".sessions_table tbody").html(data);
+
+                    $("#loading_sessions").slideUp("fast");
+
+                    $(".sessions_table, #dateofloaded_sessions").slideDown("fast");
+
+                    // $(".sessions_table tbody tr").hide();
+
+                    // var selected = $(".cinema_filter:visible select option:selected").val();
+
+                    // if (selected === "
+==========================================================================================
+getSessionsDates  |  https://cinemastercard.az/site/templates/js/main.js?av=1793672473
+n(function() {
+
+            return false;
+
+        });
+
+    }
+
+    /* Datapicker end */
+
+    $("#qb_film").on("change", function() {
+
+        var movie = $("#qb_film").val();
+
+        $("#qb_cinema").val("0");
+
+        $("#qb_date").val("0");
+
+        $("#qb_session").val("0");
+
+        $("#qb_session option").not(":first").remove();
+
+        $.ajax({
+
+            url: "//"+window.location.host+"/getSessionsDates.php",
+
+            data: {
+
+                movie: movie
+
+            },
+
+            success: function(data) {
+
+                $("#qb_date option").not(":first").remove();
+
+                $("#qb_date").append(data);
+
+            }
+
+        });
+
+        if (movie.length > 1) {
+
+            $(this).parent().addClass("activeft");
+
+        }
+
+    });
+
+    $("#qb_date").on("change", function() {
+
+        $("#qb_session").val("0");
+
+        $("#qb_session option").not(":first").remove();
+
+        $("#qb_cinema").val("0");
+
+        if ($(this).val().length > 3) {
+
+            $(this).parent().add
+==========================================================================================
+getSessions.php  |  https://cinemastercard.az/site/templates/js/main.js?av=1793672473
+     $(this).parent().removeClass("activeft");
+
+        }
+
+    });
+
+    $("#qb_cinema").on("change", function() {
+
+        $("#qb_session").val("0");
+
+        $("#qb_session option").not(":first").remove();
+
+        var cinema = $("#qb_cinema").val();
+
+        var movie = $("#qb_film").val();
+
+        var datex = $("#qb_date").val();
+
+        $.ajax({
+
+            url: "//"+window.location.host+"/getSessions.php",
+
+            data: {
+
+                cinema: cinema,
+
+                movie: movie,
+
+                datex: datex
+
+            },
+
+            success: function(data) {
+
+                $("#qb_session option").not(":first").remove();
+
+                $("#qb_session").append(data);
+
+            }
+
+        });
+
+        if ($(this).val().length > 3) {
+
+            $(this).parent().addClass("activeft");
+
+        } else {
+
+            $(this).parent().removeClass("activeft");
+
+        }
+
+    });
+
+    $("#qb_session").on("change", function() {
+
+        var session = $("#qb_session option:selecte
+==========================================================================================
+session_info  |  https://cinemastercard.az/site/templates/js/main.js?av=1793672473
+shamakhi_hall");
+
+                $(".zone_footer").removeClass("seabreeze_hall");
+
+            }
+
+            /*
+
+            	        
+
+            	        $(".close_zone").css("margin-top", -$(".zone").height()/2 + "px");
+
+            	        $(".close_zone").css("margin-right", -$(".zone").width()/2 + "px");
+
+            	        
+
+            */
+
+            
+
+            
+
+            var session_info_url = "//"+window.location.host+"/session_info.php";
+
+            // if ($(".mobile_hall_init").size() > 0) {
+
+            //     session_info_url = session_info_url.replace("cinemaplus.az", "www.cinemaplus.az");
+
+            // }
+
+            
+
+            $.ajax({
+
+                url: session_info_url,
+
+                data: {
+
+                    session: session_id,
+
+                    cinema: cinema
+
+                },
+
+                success: function(data) {
+
+                    $("#session_details").html(data);
+
+                }
+
+            });
+
+            if ($(".mobile_hall_in
+==========================================================================================
+session_info  |  https://cinemastercard.az/site/templates/js/main.js?av=1793672473
+er").removeClass("seabreeze_hall");
+
+            }
+
+            /*
+
+            	        
+
+            	        $(".close_zone").css("margin-top", -$(".zone").height()/2 + "px");
+
+            	        $(".close_zone").css("margin-right", -$(".zone").width()/2 + "px");
+
+            	        
+
+            */
+
+            
+
+            
+
+            var session_info_url = "//"+window.location.host+"/session_info.php";
+
+            // if ($(".mobile_hall_init").size() > 0) {
+
+            //     session_info_url = session_info_url.replace("cinemaplus.az", "www.cinemaplus.az");
+
+            // }
+
+            
+
+            $.ajax({
+
+                url: session_info_url,
+
+                data: {
+
+                    session: session_id,
+
+                    cinema: cinema
+
+                },
+
+                success: function(data) {
+
+                    $("#session_details").html(data);
+
+                }
+
+            });
+
+            if ($(".mobile_hall_init").size() > 0) {
+
+                var scale_x
+==========================================================================================
+session_info  |  https://cinemastercard.az/site/templates/js/main.js?av=1793672473
+       	        $(".close_zone").css("margin-top", -$(".zone").height()/2 + "px");
+
+            	        $(".close_zone").css("margin-right", -$(".zone").width()/2 + "px");
+
+            	        
+
+            */
+
+            
+
+            
+
+            var session_info_url = "//"+window.location.host+"/session_info.php";
+
+            // if ($(".mobile_hall_init").size() > 0) {
+
+            //     session_info_url = session_info_url.replace("cinemaplus.az", "www.cinemaplus.az");
+
+            // }
+
+            
+
+            $.ajax({
+
+                url: session_info_url,
+
+                data: {
+
+                    session: session_id,
+
+                    cinema: cinema
+
+                },
+
+                success: function(data) {
+
+                    $("#session_details").html(data);
+
+                }
+
+            });
+
+            if ($(".mobile_hall_init").size() > 0) {
+
+                var scale_x = $(window).width() / 700;
+
+                if (data['temp'] === "gmzal7" && $(".forcemob_zone"
