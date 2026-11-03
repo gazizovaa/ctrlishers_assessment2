@@ -1,5 +1,5 @@
 # SuperChat — Çoxfunksiyalı köməkçi
-Canlı vebsayt (deploy edilmiş versiya):** [https://superchat-bot.lovable.app](https://superchat-bot.lovable.app)
+Canlı vebsayt (deploy edilmiş versiya): [https://superchat-bot.lovable.app](https://superchat-bot.lovable.app)
 
 SuperChat istifadəçilərə uçuşlar, alış-veriş məhsulları və kino seansları ilə bağlı sorğularında kömək edən çatbot layihəsidir. İstifadəçi gündəlik dildə sorğu yazaraq uyğun uçuşları və məhsulları axtara, filmlər və seanslar haqqında məlumat əldə edə, nəticələri müqayisə edə və mövcud funksiyalardan istifadə edə bilər.
 
